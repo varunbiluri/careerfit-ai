@@ -1,10 +1,10 @@
-# CareerFit AI — Big-picture architecture (single view)
+# CareerFit AI Architecture
 
-One diagram for reports, thesis, and stakeholder decks. Export from [mermaid.live](https://mermaid.live) as PNG/SVG for PowerPoint.
+This document summarizes the main runtime components and data flow.
 
 ---
 
-## Full-stack + ML + data (one flowchart)
+## Full-stack Flow
 
 **Read top → bottom:** experience → API → intelligence → persistence → background → external data.
 
@@ -71,13 +71,7 @@ flowchart TB
   WK --> PG
 ```
 
-## Captured architecture image
-
-![Job Scraper Ecosystem Flow](/Users/varunbilluri/.cursor/projects/Users-varunbilluri-AI-Job-Market/assets/Job_Scraper_Ecosystem_Flow-2026-04-13-044631.png)
-
----
-
-## Same story in five bullets (speaker script)
+## Runtime Summary
 
 1. **Users** hit the **React** app; **nginx** serves the UI and forwards **`/api`** to **FastAPI**.
 2. **Inference:** **BGE** vectors + **KeyBERT** phrases + **similarity** feed **match** and **gap** services.

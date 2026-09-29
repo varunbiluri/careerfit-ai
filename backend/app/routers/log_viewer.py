@@ -1,8 +1,8 @@
 """
-Read-only tail of the API log file for demos (e.g. capstone panel).
+Read-only tail of the API log file for controlled operations access.
 
 Requires LOG_VIEWER_ENABLED=true, LOG_VIEWER_TOKEN, and LOG_FILE_PATH.
-Disable after the presentation on any public IP.
+Keep disabled unless a deployment explicitly needs browser-accessible logs.
 
 - GET /logs/recent — plain text snapshot (use /logs/watch for auto-refresh in the browser).
 """
@@ -157,4 +157,3 @@ poll();
 </body>
 </html>"""
     )
-

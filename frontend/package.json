@@ -3,6 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "license": "MIT",
+  "author": "Varun Billuri",
   "type": "module",
   "scripts": {
     "dev": "vite",
