@@ -1,0 +1,15 @@
+{
+  "software engineer": ["backend engineer", "full stack engineer", "senior software engineer"],
+  "backend engineer": ["senior backend engineer", "platform engineer", "data engineer"],
+  "senior backend engineer": ["staff engineer", "principal engineer", "engineering manager"],
+  "full stack engineer": ["backend engineer", "frontend engineer", "senior software engineer"],
+  "data engineer": ["senior data engineer", "ml engineer", "analytics engineer"],
+  "senior data engineer": ["staff data engineer", "data architect", "ml engineer"],
+  "data scientist": ["senior data scientist", "ml engineer", "research scientist"],
+  "ml engineer": ["senior ml engineer", "ai engineer", "applied scientist"],
+  "senior ml engineer": ["staff ml engineer", "ai engineer", "engineering manager"],
+  "ai engineer": ["senior ai engineer", "research scientist", "ml engineer"],
+  "devops engineer": ["site reliability engineer", "platform engineer", "cloud engineer"],
+  "frontend engineer": ["senior frontend engineer", "full stack engineer"],
+  "product manager": ["senior product manager", "group product manager"]
+}

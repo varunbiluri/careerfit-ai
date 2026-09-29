@@ -1,0 +1,138 @@
+# Deploying CareerFit AI (Capstone)
+
+This guide helps you deploy the app so you can **showcase it as a capstone project**. Recommended: **Render** (backend + PostgreSQL) + **Vercel** (frontend). Both have free tiers.
+
+---
+
+## Overview
+
+| Component   | Where     | Notes |
+|------------|-----------|--------|
+| **Backend** | Render Web Service | FastAPI, BGE embeddings, LinkedIn scraping. Needs ≥ 1 GB RAM for BGE model. |
+| **PostgreSQL** | Render PostgreSQL | Free tier available; use the **internal** URL for the backend. |
+| **Frontend** | Vercel | React/Vite; set `VITE_API_URL` to your Render backend URL. |
+
+---
+
+## 1. Backend on Render
+
+### 1.1 Create a PostgreSQL database
+
+1. Go to [render.com](https://render.com) and sign in.
+2. **New** → **PostgreSQL**.
+3. Name it (e.g. `ai-job-market-db`), choose a region, **Free** plan.
+4. Create. Copy the **Internal Database URL** (e.g. `postgresql://user:pass@host/dbname`).  
+   For async SQLAlchemy you need `postgresql+asyncpg://...` — replace the first `postgresql://` with `postgresql+asyncpg://` and use that as `DATABASE_URL`.
+
+### 1.2 Create a Web Service (backend API)
+
+1. **New** → **Web Service**.
+2. Connect your repo (GitHub/GitLab) and select the **AI Job Market** repo.
+3. Configure:
+   - **Root Directory:** `backend`
+   - **Runtime:** Python 3
+   - **Build Command:**  
+     `pip install uv && uv sync --no-dev`  
+     (or use a `render.yaml`; see below.)
+   - **Start Command:**  
+     `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+   - **Plan:** Free (512 MB) or **Starter** (512 MB–2 GB). BGE needs ~1 GB+ RAM; if you see OOM on free, switch to Starter or use `EMBEDDING_MODEL=all-MiniLM-L6-v2` for free tier.
+
+### 1.3 Environment variables (Render Web Service)
+
+In the Render dashboard → your Web Service → **Environment**:
+
+| Key | Value |
+|-----|--------|
+| `DATABASE_URL` | `postgresql+asyncpg://user:pass@host/dbname` (from step 1.1, **internal** URL with `+asyncpg`) |
+| `EMBEDDING_MODEL` | `BAAI/bge-small-en-v1.5` (or `all-MiniLM-L6-v2` if on free tier and low memory) |
+| `APP_NAME` | `CareerFit AI` |
+| `LOG_LEVEL` | `INFO` |
+
+Optional: `SCRAPER_DELAY_SECONDS=2`, `MAX_UPLOAD_MB=10`.
+
+Save. Render will redeploy. Note the service URL, e.g. `https://your-backend.onrender.com`.
+
+### 1.4 Health check
+
+Open `https://your-backend.onrender.com/health`. You should see `{"status":"ok"}` (possibly after a cold start).
+
+---
+
+## 2. Frontend on Vercel
+
+1. Go to [vercel.com](https://vercel.com) and import your **AI Job Market** repo.
+2. **Root Directory:** `frontend`.
+3. **Build Command:** `npm run build` (default).
+4. **Environment variable:**
+   - Name: `VITE_API_URL`  
+   - Value: `https://your-backend.onrender.com` (no trailing slash; the frontend will call this as the API base).
+5. Deploy. Vercel will give you a URL like `https://your-app.vercel.app`.
+
+---
+
+## 3. CORS
+
+The backend is configured with `allow_origins=["*"]`, so your Vercel origin is allowed. If you later restrict origins, add your Vercel URL (e.g. `https://your-app.vercel.app`) to the list.
+
+---
+
+## 4. Optional: Render Blueprint (`render.yaml`)
+
+In the **repo root** you can add `render.yaml` so Render can create both the DB and Web Service from one blueprint:
+
+```yaml
+services:
+  - type: web
+    name: ai-job-market-api
+    runtime: python
+    region: oregon
+    plan: free
+    rootDir: backend
+    buildCommand: pip install uv && uv sync --no-dev
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: ai-job-market-db
+          property: connectionString
+      - key: EMBEDDING_MODEL
+        value: BAAI/bge-small-en-v1.5
+      - key: APP_NAME
+        value: CareerFit AI
+
+databases:
+  - name: ai-job-market-db
+    plan: free
+    region: oregon
+```
+
+**Note:** Render’s `connectionString` is usually `postgresql://...`. You must use `postgresql+asyncpg://...` for SQLAlchemy async. So either:
+- Add a **script** in Render that sets `DATABASE_URL` from the DB and replaces `postgresql://` with `postgresql+asyncpg://`, or  
+- Set `DATABASE_URL` manually in the dashboard to the internal URL with `+asyncpg`.
+
+---
+
+## 5. Capstone demo checklist
+
+- [ ] Backend health: `https://your-backend.onrender.com/health` returns `{"status":"ok"}`.
+- [ ] Frontend loads at your Vercel URL.
+- [ ] Upload a resume PDF from the dashboard.
+- [ ] Run **Analyze Skills Gap** and see fit %, gap %, matched/missing skills.
+- [ ] Open a job and see resume–job match %).
+- [ ] Add the live app link and repo link to your capstone write-up or video.
+
+---
+
+## 6. Troubleshooting
+
+| Issue | What to try |
+|-------|------------------|
+| Backend 503 / timeout on first request | Render free tier spins down after inactivity. First request may take 30–60 s; refresh. |
+| Out of memory on backend | Use `EMBEDDING_MODEL=all-MiniLM-L6-v2` or upgrade to a paid plan with more RAM. |
+| Frontend can’t reach API | Ensure `VITE_API_URL` is set to the **full** backend URL (e.g. `https://...onrender.com`) and has no trailing slash if your client adds paths correctly. |
+| DB connection failed | Use the **internal** database URL (same region as the Web Service) and the `postgresql+asyncpg://` form. |
+
+---
+
+**Project title for submission:** **CareerFit AI**

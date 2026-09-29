@@ -1,0 +1,248 @@
+\documentclass[conference]{IEEEtran}
+
+\usepackage{cite}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+
+\title{CareerFit AI}
+
+\author{
+\IEEEauthorblockN{B. Sai Vignesh}
+\IEEEauthorblockA{
+Department of Computer Science and Engineering (Data Science)\\
+Rajeev Gandhi Memorial College of Engineering and Technology (Autonomous)\\
+Nandyal, India\\
+Email: 22091a32c2@rgmcet.edu.in}
+\and
+\IEEEauthorblockN{Under the Supervision of}
+\IEEEauthorblockA{
+SUPERVISOR\\
+Dr. B. BHASKARA RAO M.Tech., Ph.D.\\
+Associate Professor \& HOD,\\
+Dept. of CSE(DS)\\
+\vspace{2mm}
+CO - SUPERVISOR\\
+Ms. R. ARSHIYA M.Tech.\\
+Assistant Professor,\\
+Dept. of CSE(DS)}
+}
+
+\maketitle
+
+\begin{abstract}
+Students preparing for placements often read many job descriptions but still lack a clear study order. Keyword-only matchers miss paraphrase, while single-score semantic matchers hide concrete gaps. This paper presents \textit{CareerFit AI}, a deployable full-stack system that processes resume PDFs, extracts and normalizes skills, builds a local job-skill corpus from recent postings, and reports both market-level gap summaries and resume-job pairwise match scores with explicit component breakdowns. The score combines semantic similarity, structured overlap, keyword evidence, and a demand penalty for missing high-frequency skills. The implementation uses FastAPI, PostgreSQL, React, and optional Redis/ARQ/Ollama modules. Demand is defined conservatively as frequency in the stored corpus rather than a universal labor statistic. We also provide a reproducible evaluation protocol (baselines, ranking metrics, and ablation plan) so the paper can be upgraded from a systems demonstration to a quantitative study without changing the architecture.
+\end{abstract}
+
+\begin{IEEEkeywords}
+skill gap analysis, resume-job matching, sentence embeddings, explainable scoring, demand weighting, placement analytics
+\end{IEEEkeywords}
+
+\section{Introduction}
+Placement preparation is still mostly manual in many institutions. Students compare resumes against job descriptions and infer priorities from repeated keywords, resulting in inconsistent decisions. Equivalent skills are often described differently across sources (e.g., ``REST API development'' vs.\ ``backend service engineering''), which weakens pure lexical matching.
+
+This work targets three practical questions:
+\begin{enumerate}
+    \item How well does the current resume align with the selected market slice?
+    \item Which skills are missing?
+    \item Which missing skills should be prioritized first?
+\end{enumerate}
+
+To answer them, we built \textit{CareerFit AI}: an authenticated web system with resume PDF ingestion, skill extraction and normalization, job scraping and persistence, demand estimation, and interactive dashboards for gap and match analysis.
+
+\subsection{Contributions}
+The main contributions are:
+\begin{itemize}
+    \item \textbf{Deployable architecture:} a complete backend-frontend system with optional worker/cache modules.
+    \item \textbf{Explainable scoring:} a four-channel score with explicit weights and interpretable components.
+    \item \textbf{Demand-aware prioritization:} missing skills are ranked by corpus frequency rather than only lexical absence.
+    \item \textbf{Reproducible evaluation protocol:} baseline definitions, ranking metrics, and ablation design for later quantitative reporting.
+\end{itemize}
+
+\section{Related Work and Positioning}
+Sentence embedding methods are widely used for semantic retrieval and matching in low-label settings \cite{b1}. BGE-family models are practical when computational constraints limit larger encoders \cite{b2}. In resume-job alignment literature, one line of work focuses on supervised ranking with curated labels, while another adopts unsupervised similarity proxies.
+
+This project belongs to the second line but avoids single-channel scoring. Instead of reporting only semantic closeness, it combines semantic and structured signals, then introduces a demand penalty tied to frequently requested missing skills. The design objective is interpretability for educational use, not benchmark leadership.
+
+Skill extraction in production systems usually combines dictionaries, phrase mining, and rule-based filtering; we follow this hybrid path because outputs remain traceable to explicit vocabulary entries and deterministic post-processing \cite{b3}. Optional LLM usage is restricted to advisory text generation, while core scoring remains deterministic.
+
+\section{System Overview}
+The platform follows a modular client-server architecture:
+\begin{itemize}
+    \item \textbf{Frontend:} React + TypeScript + Vite dashboard for upload, analysis, and visualization.
+    \item \textbf{Backend:} FastAPI with async SQLAlchemy services and PostgreSQL persistence.
+    \item \textbf{Optional infrastructure:} Redis for caching and ARQ workers for background tasks.
+    \item \textbf{Optional advisory layer:} Ollama for local LLM-based explanation text.
+\end{itemize}
+
+\subsection{Core Data Model}
+The main entities are user, resume, resume skills, job, and job skills. This relational model enables efficient aggregation queries for demand and trend summaries.
+
+\subsection{End-to-End Pipeline}
+\begin{enumerate}
+    \item Resume PDF upload and text extraction.
+    \item Skill extraction and normalization against a curated dictionary.
+    \item Job ingestion through scraper modules and deduplication.
+    \item Gap and match score computation.
+    \item Presentation of interpretable outputs in the dashboard.
+\end{enumerate}
+
+\section{Methodology}
+\subsection{Skill Processing and Normalization}
+The current repository defaults to \texttt{use\_ai\_skill\_extraction=True}, i.e., AI/keyphrase-driven extraction as the primary path, with optional dictionary extraction (\texttt{use\_dictionary\_skill\_extraction}) for blended operation. Extracted phrases are normalized through dedicated normalizer modules so variants such as ``js'' and ``javascript'' can be aligned consistently. This step improves overlap computation quality compared to raw token matching.
+
+\subsection{Demand Estimation}
+Let $\phi(s)$ denote demand for skill $s$, defined as normalized frequency in the market slice available to the engine. In this repository, defaults are \texttt{live\_market\_only=True}, \texttt{persist\_scraped\_jobs=False}, and \texttt{persist\_resumes=False}, so demand is often computed from in-memory live registries unless persistence is explicitly enabled. This definition is intentionally local and reproducible; we do not claim that $\phi(s)$ represents national or global labor-market demand.
+
+Gap analysis reports matched skills, missing skills, high-demand missing skills ranked by $\phi(s)$, and aggregate fit/gap summaries.
+
+\subsection{Match Scoring}
+For resume-job pairwise analysis, the implementation combines four channels:
+\begin{itemize}
+    \item $S$: semantic similarity from sentence embeddings,
+    \item $O$: structured skill overlap,
+    \item $K$: keyword overlap signal,
+    \item $D$: demand-weighted penalty for missing important skills.
+\end{itemize}
+
+The composite score is:
+\begin{equation}
+\text{Score} = 0.50S + 0.30O + 0.20K - 0.20D
+\end{equation}
+
+The system also computes a 95\% confidence interval for reported match values where available, enabling uncertainty-aware interpretation instead of a single overconfident score.
+
+\subsection{Algorithm Summary}
+For each resume-job pair: (i) compute semantic similarity with the configured embedding model (\texttt{BAAI/bge-small-en-v1.5} by default), (ii) derive normalized skill sets, (iii) compute overlap and keyword signals, (iv) compute demand-aware missing-skill penalty from $\phi(s)$, and (v) combine signals through Eq.~(1). For gap mode, aggregate missing skills over the selected corpus slice before ranking.
+
+\section{Implementation and Operational Design}
+The backend service layer is organized around dedicated modules for embeddings, skills, matching, gap orchestration, scraping, and optional LLM support. This separation improves maintainability and allows individual components to be tuned without rewriting the full application.
+
+\subsection{Technology Stack}
+\begin{itemize}
+    \item \textbf{Modeling:} SentenceTransformers with \texttt{BAAI/bge-small-en-v1.5}
+    \item \textbf{API:} FastAPI
+    \item \textbf{Database:} PostgreSQL
+    \item \textbf{Queue/cache (optional):} Redis + ARQ
+    \item \textbf{Frontend:} React + TypeScript + Tailwind
+    \item \textbf{Deployment:} nginx + Uvicorn
+\end{itemize}
+
+\subsection{Code-Accurate Runtime Defaults}
+\begin{itemize}
+    \item Semantic skill matching is enabled by default (\texttt{use\_semantic\_skill\_matching=True}).
+    \item Local market mode is enabled by default (\texttt{live\_market\_only=True}).
+    \item Redis is disabled by default (\texttt{redis\_url=""}); the API degrades gracefully to in-process execution.
+    \item Optional persistence flags for jobs and resumes are disabled by default and can be enabled per deployment.
+    \item Startup can seed curated corpus data when database job volume is below configured thresholds.
+\end{itemize}
+
+\subsection{Reliability and Security Features}
+\begin{itemize}
+    \item JWT-based user isolation
+    \item Password hashing with bcrypt
+    \item Rate limiting for expensive endpoints
+    \item \texttt{/health} and \texttt{/metrics} endpoints for observability
+    \item Graceful fallback when optional services are disabled
+\end{itemize}
+
+\section{Evaluation Protocol}
+This section defines a concrete protocol for quantitative validation without inventing results.
+
+\subsection{Baselines}
+\begin{itemize}
+    \item \textbf{B1 (Semantic only):} $Score = S$
+    \item \textbf{B2 (Semantic + Overlap):} $Score = 0.7S + 0.3O$
+    \item \textbf{Proposed:} Eq.~(1)
+\end{itemize}
+
+\subsection{Metrics}
+\begin{itemize}
+    \item Precision@K and Recall@K (K $\in$ \{1,3,5,10\})
+    \item Spearman rank correlation between B2 and Proposed
+    \item Demand alignment of top-K recommendations
+\end{itemize}
+
+\subsection{Experimental Design}
+A practical setup is 50 resumes $\times$ 200 jobs, with either expert relevance labels or a carefully declared surrogate protocol. Report mean and standard deviation across resumes.
+
+\begin{table}[t]
+\caption{Result Template (fill after experiments)}
+\label{tab:results}
+\centering
+\begin{tabular}{lcccc}
+\toprule
+Method & P@1 & P@5 & R@5 & Spearman \\
+\midrule
+B1 (S) & -- & -- & -- & -- \\
+B2 (0.7S+0.3O) & -- & -- & -- & -- \\
+Proposed (Eq.~1) & -- & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[t]
+\caption{Ablation Template on Demand Weight $\delta$}
+\label{tab:ablation}
+\centering
+\begin{tabular}{lcc}
+\toprule
+$\delta$ in $0.50S+0.30O+0.20K-\delta D$ & P@5 & Demand Align. \\
+\midrule
+0.0 & -- & -- \\
+0.1 & -- & -- \\
+0.2 & -- & -- \\
+0.3 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Discussion}
+Even before full benchmark-style numbers, system behavior during deployment suggests two practical findings: (i) semantic similarity alone is insufficient for actionable learning prioritization, and (ii) demand-aware penalties improve ranking interpretability for student users. These are engineering observations, not definitive statistical claims, and should be treated as hypotheses until Tables~\ref{tab:results} and \ref{tab:ablation} are populated.
+
+\section{Limitations, Ethics, and Validity Threats}
+This study deliberately avoids exaggerated claims. Current limitations are:
+\begin{enumerate}
+    \item \textbf{Sample dependence:} demand reflects only ingested postings.
+    \item \textbf{Scraping fragility:} source HTML changes can affect extraction quality.
+    \item \textbf{No hiring-outcome labels:} not validated against real recruitment outcomes.
+    \item \textbf{LLM variability:} advice quality and latency vary by model and hardware.
+\end{enumerate}
+
+\textbf{Ethical note:} The system is intended for guidance, not automated hiring decisions. Resume data should be handled with strict access control and minimal retention. Scraping should follow rate limits and platform terms where applicable. Since default operation may keep market data in memory without long-term persistence, deployments should explicitly document retention behavior to users.
+
+\section{Reproducibility Checklist}
+\begin{itemize}
+    \item Python/uv environment details and dependency versions
+    \item Database migration command and schema version
+    \item Embedding model name and inference configuration
+    \item Job collection window and filters
+    \item Evaluation script commit hash and random seeds
+\end{itemize}
+
+\section{Conclusion and Future Work}
+This paper presents a practical and explainable resume-job skill alignment system for placement preparation. The primary contribution is not a new neural architecture, but a reproducible integration of semantic matching, structured skill analysis, demand-aware prioritization, and deployable software engineering.
+
+Future work includes labeled ranking evaluation, expanded ablation studies, multi-source ingestion with bias analysis, stronger fairness/compliance reporting, and multilingual resume-job support.
+
+\section*{Acknowledgment}
+The author thanks project supervisor Dr.\ B.\ Bhaskara Rao and co-supervisor Ms.\ R.\ Arshiya for guidance during design, implementation, and evaluation.
+
+\begin{thebibliography}{00}
+\bibitem{b1} N. Reimers and I. Gurevych, ``Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks,'' in \emph{Proc. EMNLP}, 2019.
+\bibitem{b2} BAAI, ``bge-small-en-v1.5,'' Hugging Face model card. [Online]. Available: \url{https://huggingface.co/BAAI/bge-small-en-v1.5}
+\bibitem{b3} M. Grootendorst, ``KeyBERT: Minimal keyword extraction with BERT,'' documentation. [Online]. Available: \url{https://github.com/MaartenGr/KeyBERT}
+\bibitem{b4} FastAPI Documentation. [Online]. Available: \url{https://fastapi.tiangolo.com/}
+\bibitem{b5} SQLAlchemy Async Documentation. [Online]. Available: \url{https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html}
+\bibitem{b6} PostgreSQL Documentation. [Online]. Available: \url{https://www.postgresql.org/docs/}
+\bibitem{b7} Redis Documentation. [Online]. Available: \url{https://redis.io/docs/}
+\bibitem{b8} ARQ Documentation. [Online]. Available: \url{https://arq-docs.helpmanual.io/}
+\bibitem{b9} Ollama Documentation. [Online]. Available: \url{https://ollama.com/}
+\bibitem{b10} J. S. Vine, ``pdfplumber.'' [Online]. Available: \url{https://github.com/jsvine/pdfplumber}
+\end{thebibliography}
+
+\end{document}

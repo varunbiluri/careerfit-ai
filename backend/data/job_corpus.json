@@ -1,0 +1,4032 @@
+[
+  {
+    "title": "Machine Learning Engineer",
+    "description": "We are hiring a Machine Learning Engineer. You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, model deployment, deep learning, machine learning, feature engineering, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "model deployment",
+      "deep learning",
+      "machine learning",
+      "feature engineering",
+      "aws"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer",
+    "description": "We are hiring a Senior ML Engineer. You will work with modern stacks and cross-functional teams. Key technologies include tensorflow, aws, mlflow, deep learning, numpy, machine learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tensorflow",
+      "aws",
+      "mlflow",
+      "deep learning",
+      "numpy",
+      "machine learning",
+      "pandas"
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "We are hiring a Data Scientist. You will work with modern stacks and cross-functional teams. Key technologies include visualization, tableau, pandas, machine learning, spark, experiment design. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "visualization",
+      "tableau",
+      "pandas",
+      "machine learning",
+      "spark",
+      "experiment design",
+      "sql",
+      "communication"
+    ]
+  },
+  {
+    "title": "Applied Scientist",
+    "description": "We are hiring a Applied Scientist. You will work with modern stacks and cross-functional teams. Key technologies include a/b testing, experiment design, statistics, machine learning, pandas, tableau. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "a/b testing",
+      "experiment design",
+      "statistics",
+      "machine learning",
+      "pandas",
+      "tableau",
+      "spark",
+      "visualization",
+      "python"
+    ]
+  },
+  {
+    "title": "Data Engineer",
+    "description": "We are hiring a Data Engineer. You will work with modern stacks and cross-functional teams. Key technologies include kafka, aws, dbt, airflow, snowflake, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kafka",
+      "aws",
+      "dbt",
+      "airflow",
+      "snowflake",
+      "kubernetes",
+      "python",
+      "sql",
+      "spark",
+      "postgresql"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer",
+    "description": "We are hiring a Senior Data Engineer. You will work with modern stacks and cross-functional teams. Key technologies include data warehousing, python, spark, aws, kubernetes, postgresql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "data warehousing",
+      "python",
+      "spark",
+      "aws",
+      "kubernetes",
+      "postgresql",
+      "gcp",
+      "airflow",
+      "etl",
+      "snowflake",
+      "kafka"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer",
+    "description": "We are hiring a Backend Software Engineer. You will work with modern stacks and cross-functional teams. Key technologies include redis, java, microservices, grpc, postgresql, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "redis",
+      "java",
+      "microservices",
+      "grpc",
+      "postgresql",
+      "kubernetes",
+      "python",
+      "rest api",
+      "docker",
+      "go",
+      "distributed systems",
+      "aws"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "We are hiring a Full Stack Engineer. You will work with modern stacks and cross-functional teams. Key technologies include postgresql, testing, react, docker, node.js, ci/cd. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "postgresql",
+      "testing",
+      "react",
+      "docker",
+      "node.js",
+      "ci/cd"
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "We are hiring a DevOps Engineer. You will work with modern stacks and cross-functional teams. Key technologies include terraform, docker, kubernetes, prometheus, linux, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "terraform",
+      "docker",
+      "kubernetes",
+      "prometheus",
+      "linux",
+      "python",
+      "ci/cd"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "description": "We are hiring a Site Reliability Engineer. You will work with modern stacks and cross-functional teams. Key technologies include helm, kubernetes, docker, linux, ci/cd, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "helm",
+      "kubernetes",
+      "docker",
+      "linux",
+      "ci/cd",
+      "python",
+      "grafana",
+      "prometheus"
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "We are hiring a Cloud Engineer. You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, terraform, monitoring, azure, networking, iam. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "terraform",
+      "monitoring",
+      "azure",
+      "networking",
+      "iam",
+      "aws",
+      "python",
+      "linux"
+    ]
+  },
+  {
+    "title": "AI Engineer",
+    "description": "We are hiring a AI Engineer. You will work with modern stacks and cross-functional teams. Key technologies include model deployment, scikit-learn, pandas, python, experiment tracking, tensorflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "model deployment",
+      "scikit-learn",
+      "pandas",
+      "python",
+      "experiment tracking",
+      "tensorflow",
+      "numpy",
+      "deep learning",
+      "docker",
+      "feature engineering"
+    ]
+  },
+  {
+    "title": "NLP Engineer",
+    "description": "We are hiring a NLP Engineer. You will work with modern stacks and cross-functional teams. Key technologies include nlp, aws, pytorch, python, transformers, tokenization. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "nlp",
+      "aws",
+      "pytorch",
+      "python",
+      "transformers",
+      "tokenization",
+      "machine learning",
+      "hugging face",
+      "docker"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer",
+    "description": "We are hiring a Computer Vision Engineer. You will work with modern stacks and cross-functional teams. Key technologies include cuda, tensorflow, deep learning, pytorch, docker, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "cuda",
+      "tensorflow",
+      "deep learning",
+      "pytorch",
+      "docker",
+      "python",
+      "computer vision",
+      "opencv"
+    ]
+  },
+  {
+    "title": "MLOps Engineer",
+    "description": "We are hiring a MLOps Engineer. You will work with modern stacks and cross-functional teams. Key technologies include feature stores, model serving, ci/cd, kubernetes, monitoring, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "feature stores",
+      "model serving",
+      "ci/cd",
+      "kubernetes",
+      "monitoring",
+      "python"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "description": "We are hiring a Software Engineer. You will work with modern stacks and cross-functional teams. Key technologies include testing, git, sql, java, agile, algorithms. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "git",
+      "sql",
+      "java",
+      "agile",
+      "algorithms",
+      "linux"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "description": "We are hiring a Senior Software Engineer. You will work with modern stacks and cross-functional teams. Key technologies include algorithms, sql, git, rest api, python, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "algorithms",
+      "sql",
+      "git",
+      "rest api",
+      "python",
+      "testing",
+      "agile",
+      "linux"
+    ]
+  },
+  {
+    "title": "Platform Engineer",
+    "description": "We are hiring a Platform Engineer. You will work with modern stacks and cross-functional teams. Key technologies include java, rest api, postgresql, distributed systems, kubernetes, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "rest api",
+      "postgresql",
+      "distributed systems",
+      "kubernetes",
+      "aws",
+      "python",
+      "redis",
+      "grpc"
+    ]
+  },
+  {
+    "title": "Security Engineer",
+    "description": "We are hiring a Security Engineer. You will work with modern stacks and cross-functional teams. Key technologies include owasp, aws, kubernetes, python, security, networking. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "owasp",
+      "aws",
+      "kubernetes",
+      "python",
+      "security",
+      "networking",
+      "threat modeling",
+      "compliance"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer",
+    "description": "We are hiring a QA Automation Engineer. You will work with modern stacks and cross-functional teams. Key technologies include ci/cd, automation, testing, selenium, docker, jenkins. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ci/cd",
+      "automation",
+      "testing",
+      "selenium",
+      "docker",
+      "jenkins",
+      "python",
+      "api testing"
+    ]
+  },
+  {
+    "title": "Product Engineer",
+    "description": "We are hiring a Product Engineer. You will work with modern stacks and cross-functional teams. Key technologies include testing, algorithms, git, rest api, linux, sql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "algorithms",
+      "git",
+      "rest api",
+      "linux",
+      "sql",
+      "agile",
+      "java",
+      "python"
+    ]
+  },
+  {
+    "title": "Analytics Engineer",
+    "description": "We are hiring a Analytics Engineer. You will work with modern stacks and cross-functional teams. Key technologies include airflow, kubernetes, python, gcp, dbt, data warehousing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "airflow",
+      "kubernetes",
+      "python",
+      "gcp",
+      "dbt",
+      "data warehousing"
+    ]
+  },
+  {
+    "title": "Research Engineer",
+    "description": "We are hiring a Research Engineer. You will work with modern stacks and cross-functional teams. Key technologies include tensorflow, kubernetes, experiment tracking, numpy, python, deep learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tensorflow",
+      "kubernetes",
+      "experiment tracking",
+      "numpy",
+      "python",
+      "deep learning",
+      "feature engineering"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "description": "We are hiring a Embedded Software Engineer. You will work with modern stacks and cross-functional teams. Key technologies include rtos, debugging, linux, c++, c, embedded. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rtos",
+      "debugging",
+      "linux",
+      "c++",
+      "c",
+      "embedded",
+      "microcontrollers"
+    ]
+  },
+  {
+    "title": "Mobile Engineer",
+    "description": "We are hiring a Mobile Engineer. You will work with modern stacks and cross-functional teams. Key technologies include mobile development, swift, rest api, kotlin, ios, android. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "mobile development",
+      "swift",
+      "rest api",
+      "kotlin",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 1)",
+    "description": "We are hiring a Machine Learning Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include mlflow, tensorflow, aws, machine learning, kubernetes, feature engineering. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "mlflow",
+      "tensorflow",
+      "aws",
+      "machine learning",
+      "kubernetes",
+      "feature engineering",
+      "pandas",
+      "python",
+      "docker",
+      "experiment tracking"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 1)",
+    "description": "We are hiring a Senior ML Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include aws, numpy, pytorch, pandas, experiment tracking, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "numpy",
+      "pytorch",
+      "pandas",
+      "experiment tracking",
+      "docker",
+      "mlflow",
+      "kubernetes",
+      "tensorflow",
+      "python",
+      "feature engineering"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 1)",
+    "description": "We are hiring a Data Scientist (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include snowflake, jupyter, a/b testing, numpy, python, sql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "snowflake",
+      "jupyter",
+      "a/b testing",
+      "numpy",
+      "python",
+      "sql",
+      "communication",
+      "pandas",
+      "statistics",
+      "visualization",
+      "spark",
+      "tableau"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 1)",
+    "description": "We are hiring a Applied Scientist (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include pandas, spark, jupyter, sql, a/b testing, numpy. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pandas",
+      "spark",
+      "jupyter",
+      "sql",
+      "a/b testing",
+      "numpy"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 1)",
+    "description": "We are hiring a Data Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include postgresql, etl, docker, airflow, aws, snowflake. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "postgresql",
+      "etl",
+      "docker",
+      "airflow",
+      "aws",
+      "snowflake",
+      "kafka"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 1)",
+    "description": "We are hiring a Senior Data Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include gcp, python, sql, docker, snowflake, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "gcp",
+      "python",
+      "sql",
+      "docker",
+      "snowflake",
+      "aws",
+      "kubernetes",
+      "airflow"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 1)",
+    "description": "We are hiring a Backend Software Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include rest api, postgresql, grpc, go, redis, distributed systems. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "postgresql",
+      "grpc",
+      "go",
+      "redis",
+      "distributed systems",
+      "microservices",
+      "docker",
+      "python"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 1)",
+    "description": "We are hiring a Full Stack Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include docker, typescript, postgresql, aws, ci/cd, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "typescript",
+      "postgresql",
+      "aws",
+      "ci/cd",
+      "testing",
+      "node.js",
+      "css",
+      "rest api",
+      "react"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 1)",
+    "description": "We are hiring a DevOps Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include linux, aws, grafana, helm, kubernetes, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "aws",
+      "grafana",
+      "helm",
+      "kubernetes",
+      "terraform",
+      "python",
+      "docker",
+      "prometheus",
+      "ci/cd"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 1)",
+    "description": "We are hiring a Site Reliability Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, ci/cd, python, linux, docker, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "ci/cd",
+      "python",
+      "linux",
+      "docker",
+      "terraform",
+      "grafana",
+      "aws",
+      "helm",
+      "prometheus"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 1)",
+    "description": "We are hiring a Cloud Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include monitoring, python, iam, linux, gcp, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "monitoring",
+      "python",
+      "iam",
+      "linux",
+      "gcp",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 1)",
+    "description": "We are hiring a AI Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include pytorch, scikit-learn, feature engineering, mlflow, pandas, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pytorch",
+      "scikit-learn",
+      "feature engineering",
+      "mlflow",
+      "pandas",
+      "python",
+      "docker"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 1)",
+    "description": "We are hiring a NLP Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include tokenization, aws, nlp, pytorch, hugging face, transformers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tokenization",
+      "aws",
+      "nlp",
+      "pytorch",
+      "hugging face",
+      "transformers",
+      "machine learning",
+      "python"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 1)",
+    "description": "We are hiring a Computer Vision Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include pytorch, computer vision, deep learning, tensorflow, docker, cuda. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pytorch",
+      "computer vision",
+      "deep learning",
+      "tensorflow",
+      "docker",
+      "cuda",
+      "opencv",
+      "python"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 1)",
+    "description": "We are hiring a MLOps Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include feature stores, python, kubernetes, model serving, docker, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "feature stores",
+      "python",
+      "kubernetes",
+      "model serving",
+      "docker",
+      "aws",
+      "monitoring",
+      "ci/cd",
+      "mlflow"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 1)",
+    "description": "We are hiring a Software Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include agile, rest api, git, testing, linux, java. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "agile",
+      "rest api",
+      "git",
+      "testing",
+      "linux",
+      "java",
+      "python",
+      "sql",
+      "algorithms"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 1)",
+    "description": "We are hiring a Senior Software Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include rest api, java, linux, testing, python, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "java",
+      "linux",
+      "testing",
+      "python",
+      "agile",
+      "sql",
+      "algorithms",
+      "git"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 1)",
+    "description": "We are hiring a Platform Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include aws, distributed systems, go, java, docker, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "distributed systems",
+      "go",
+      "java",
+      "docker",
+      "python"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 1)",
+    "description": "We are hiring a Security Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include threat modeling, networking, python, owasp, security, compliance. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "threat modeling",
+      "networking",
+      "python",
+      "owasp",
+      "security",
+      "compliance",
+      "aws"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 1)",
+    "description": "We are hiring a QA Automation Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include docker, ci/cd, jenkins, selenium, testing, automation. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "ci/cd",
+      "jenkins",
+      "selenium",
+      "testing",
+      "automation",
+      "python",
+      "api testing"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 1)",
+    "description": "We are hiring a Product Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include agile, linux, rest api, sql, algorithms, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "agile",
+      "linux",
+      "rest api",
+      "sql",
+      "algorithms",
+      "testing",
+      "git",
+      "java",
+      "python"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 1)",
+    "description": "We are hiring a Analytics Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include postgresql, snowflake, etl, airflow, sql, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "postgresql",
+      "snowflake",
+      "etl",
+      "airflow",
+      "sql",
+      "aws",
+      "data warehousing",
+      "kubernetes",
+      "docker",
+      "python"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 1)",
+    "description": "We are hiring a Research Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include python, aws, deep learning, machine learning, tensorflow, scikit-learn. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "aws",
+      "deep learning",
+      "machine learning",
+      "tensorflow",
+      "scikit-learn",
+      "docker",
+      "experiment tracking",
+      "numpy",
+      "pytorch",
+      "feature engineering"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 1)",
+    "description": "We are hiring a Embedded Software Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include c, debugging, embedded, rtos, microcontrollers, c++. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "c",
+      "debugging",
+      "embedded",
+      "rtos",
+      "microcontrollers",
+      "c++",
+      "linux"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 1)",
+    "description": "We are hiring a Mobile Engineer (Team 1). You will work with modern stacks and cross-functional teams. Key technologies include ios, swift, android, mobile development, kotlin, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ios",
+      "swift",
+      "android",
+      "mobile development",
+      "kotlin",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 2)",
+    "description": "We are hiring a Machine Learning Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include model deployment, python, tensorflow, experiment tracking, pytorch, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "model deployment",
+      "python",
+      "tensorflow",
+      "experiment tracking",
+      "pytorch",
+      "docker",
+      "aws"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 2)",
+    "description": "We are hiring a Senior ML Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include scikit-learn, aws, python, docker, tensorflow, deep learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "scikit-learn",
+      "aws",
+      "python",
+      "docker",
+      "tensorflow",
+      "deep learning",
+      "machine learning",
+      "model deployment"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 2)",
+    "description": "We are hiring a Data Scientist (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include communication, a/b testing, statistics, tableau, numpy, jupyter. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "communication",
+      "a/b testing",
+      "statistics",
+      "tableau",
+      "numpy",
+      "jupyter",
+      "machine learning",
+      "spark",
+      "sql"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 2)",
+    "description": "We are hiring a Applied Scientist (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include jupyter, spark, snowflake, machine learning, numpy, experiment design. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "jupyter",
+      "spark",
+      "snowflake",
+      "machine learning",
+      "numpy",
+      "experiment design",
+      "tableau",
+      "communication",
+      "sql",
+      "python"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 2)",
+    "description": "We are hiring a Data Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include python, kubernetes, data warehousing, gcp, kafka, spark. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "kubernetes",
+      "data warehousing",
+      "gcp",
+      "kafka",
+      "spark",
+      "dbt",
+      "etl",
+      "aws",
+      "postgresql",
+      "airflow"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 2)",
+    "description": "We are hiring a Senior Data Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include python, docker, etl, sql, aws, data warehousing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "docker",
+      "etl",
+      "sql",
+      "aws",
+      "data warehousing",
+      "dbt",
+      "gcp",
+      "spark",
+      "kafka",
+      "kubernetes",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 2)",
+    "description": "We are hiring a Backend Software Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include aws, redis, kubernetes, grpc, java, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "redis",
+      "kubernetes",
+      "grpc",
+      "java",
+      "docker"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 2)",
+    "description": "We are hiring a Full Stack Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include testing, react, postgresql, ci/cd, css, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "react",
+      "postgresql",
+      "ci/cd",
+      "css",
+      "docker",
+      "typescript"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 2)",
+    "description": "We are hiring a DevOps Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include prometheus, docker, terraform, ci/cd, grafana, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "prometheus",
+      "docker",
+      "terraform",
+      "ci/cd",
+      "grafana",
+      "python",
+      "helm",
+      "aws"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 2)",
+    "description": "We are hiring a Site Reliability Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include linux, ci/cd, prometheus, docker, helm, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "ci/cd",
+      "prometheus",
+      "docker",
+      "helm",
+      "aws",
+      "terraform",
+      "grafana",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 2)",
+    "description": "We are hiring a Cloud Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include azure, linux, monitoring, networking, gcp, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "azure",
+      "linux",
+      "monitoring",
+      "networking",
+      "gcp",
+      "kubernetes",
+      "aws",
+      "python",
+      "iam",
+      "terraform"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 2)",
+    "description": "We are hiring a AI Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include aws, kubernetes, numpy, pytorch, scikit-learn, pandas. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "kubernetes",
+      "numpy",
+      "pytorch",
+      "scikit-learn",
+      "pandas",
+      "feature engineering",
+      "docker",
+      "machine learning",
+      "python",
+      "experiment tracking"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 2)",
+    "description": "We are hiring a NLP Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include docker, tokenization, aws, machine learning, pytorch, transformers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "tokenization",
+      "aws",
+      "machine learning",
+      "pytorch",
+      "transformers",
+      "nlp",
+      "hugging face",
+      "python"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 2)",
+    "description": "We are hiring a Computer Vision Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include deep learning, tensorflow, pytorch, python, docker, computer vision. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "deep learning",
+      "tensorflow",
+      "pytorch",
+      "python",
+      "docker",
+      "computer vision"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 2)",
+    "description": "We are hiring a MLOps Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include ci/cd, monitoring, docker, aws, feature stores, mlflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ci/cd",
+      "monitoring",
+      "docker",
+      "aws",
+      "feature stores",
+      "mlflow",
+      "python"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 2)",
+    "description": "We are hiring a Software Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include algorithms, rest api, linux, sql, agile, java. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "algorithms",
+      "rest api",
+      "linux",
+      "sql",
+      "agile",
+      "java",
+      "git",
+      "python"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 2)",
+    "description": "We are hiring a Senior Software Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include linux, python, git, java, sql, algorithms. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "python",
+      "git",
+      "java",
+      "sql",
+      "algorithms",
+      "agile",
+      "rest api",
+      "testing"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 2)",
+    "description": "We are hiring a Platform Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include aws, docker, grpc, redis, rest api, postgresql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "docker",
+      "grpc",
+      "redis",
+      "rest api",
+      "postgresql",
+      "kubernetes",
+      "distributed systems",
+      "java",
+      "python"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 2)",
+    "description": "We are hiring a Security Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include networking, kubernetes, aws, security, compliance, owasp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "networking",
+      "kubernetes",
+      "aws",
+      "security",
+      "compliance",
+      "owasp",
+      "threat modeling",
+      "python"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 2)",
+    "description": "We are hiring a QA Automation Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include api testing, docker, ci/cd, testing, python, jenkins. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "api testing",
+      "docker",
+      "ci/cd",
+      "testing",
+      "python",
+      "jenkins",
+      "automation",
+      "selenium"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 2)",
+    "description": "We are hiring a Product Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include testing, sql, rest api, python, algorithms, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "sql",
+      "rest api",
+      "python",
+      "algorithms",
+      "linux"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 2)",
+    "description": "We are hiring a Analytics Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include python, gcp, spark, aws, kafka, postgresql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "gcp",
+      "spark",
+      "aws",
+      "kafka",
+      "postgresql",
+      "docker"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 2)",
+    "description": "We are hiring a Research Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include python, kubernetes, model deployment, aws, feature engineering, experiment tracking. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "kubernetes",
+      "model deployment",
+      "aws",
+      "feature engineering",
+      "experiment tracking",
+      "tensorflow",
+      "pytorch"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 2)",
+    "description": "We are hiring a Embedded Software Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include linux, c++, microcontrollers, debugging, rtos, c. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "c++",
+      "microcontrollers",
+      "debugging",
+      "rtos",
+      "c",
+      "embedded"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 2)",
+    "description": "We are hiring a Mobile Engineer (Team 2). You will work with modern stacks and cross-functional teams. Key technologies include swift, ios, rest api, android, mobile development, kotlin. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "swift",
+      "ios",
+      "rest api",
+      "android",
+      "mobile development",
+      "kotlin"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 3)",
+    "description": "We are hiring a Machine Learning Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include pandas, machine learning, tensorflow, aws, deep learning, pytorch. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pandas",
+      "machine learning",
+      "tensorflow",
+      "aws",
+      "deep learning",
+      "pytorch",
+      "model deployment",
+      "scikit-learn",
+      "kubernetes",
+      "python",
+      "experiment tracking"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 3)",
+    "description": "We are hiring a Senior ML Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, machine learning, numpy, pandas, scikit-learn, mlflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "scikit-learn",
+      "mlflow",
+      "tensorflow",
+      "pytorch",
+      "python",
+      "aws",
+      "model deployment",
+      "feature engineering"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 3)",
+    "description": "We are hiring a Data Scientist (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include python, numpy, sql, snowflake, pandas, experiment design. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "numpy",
+      "sql",
+      "snowflake",
+      "pandas",
+      "experiment design"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 3)",
+    "description": "We are hiring a Applied Scientist (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include python, snowflake, numpy, visualization, spark, a/b testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "snowflake",
+      "numpy",
+      "visualization",
+      "spark",
+      "a/b testing",
+      "tableau"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 3)",
+    "description": "We are hiring a Data Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include aws, dbt, data warehousing, docker, snowflake, gcp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "dbt",
+      "data warehousing",
+      "docker",
+      "snowflake",
+      "gcp",
+      "python",
+      "postgresql"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 3)",
+    "description": "We are hiring a Senior Data Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include gcp, etl, kubernetes, dbt, spark, data warehousing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "gcp",
+      "etl",
+      "kubernetes",
+      "dbt",
+      "spark",
+      "data warehousing",
+      "postgresql",
+      "docker",
+      "sql"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 3)",
+    "description": "We are hiring a Backend Software Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include docker, grpc, postgresql, aws, rest api, distributed systems. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "grpc",
+      "postgresql",
+      "aws",
+      "rest api",
+      "distributed systems",
+      "redis",
+      "python",
+      "kubernetes",
+      "microservices"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 3)",
+    "description": "We are hiring a Full Stack Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include css, docker, ci/cd, rest api, aws, react. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "css",
+      "docker",
+      "ci/cd",
+      "rest api",
+      "aws",
+      "react",
+      "typescript",
+      "postgresql",
+      "testing",
+      "node.js"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 3)",
+    "description": "We are hiring a DevOps Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include grafana, kubernetes, docker, helm, prometheus, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "grafana",
+      "kubernetes",
+      "docker",
+      "helm",
+      "prometheus",
+      "terraform",
+      "aws",
+      "python",
+      "linux",
+      "ci/cd"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 3)",
+    "description": "We are hiring a Site Reliability Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include linux, prometheus, python, kubernetes, terraform, ci/cd. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "prometheus",
+      "python",
+      "kubernetes",
+      "terraform",
+      "ci/cd"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 3)",
+    "description": "We are hiring a Cloud Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include networking, iam, monitoring, terraform, kubernetes, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "networking",
+      "iam",
+      "monitoring",
+      "terraform",
+      "kubernetes",
+      "aws",
+      "python"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 3)",
+    "description": "We are hiring a AI Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, model deployment, mlflow, experiment tracking, kubernetes, pandas. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "model deployment",
+      "mlflow",
+      "experiment tracking",
+      "kubernetes",
+      "pandas",
+      "tensorflow",
+      "aws"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 3)",
+    "description": "We are hiring a NLP Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include aws, hugging face, python, machine learning, transformers, pytorch. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "hugging face",
+      "python",
+      "machine learning",
+      "transformers",
+      "pytorch",
+      "tokenization",
+      "nlp",
+      "docker"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 3)",
+    "description": "We are hiring a Computer Vision Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include computer vision, python, pytorch, tensorflow, deep learning, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "computer vision",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "deep learning",
+      "docker",
+      "cuda",
+      "opencv"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 3)",
+    "description": "We are hiring a MLOps Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include model serving, kubernetes, mlflow, monitoring, python, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "model serving",
+      "kubernetes",
+      "mlflow",
+      "monitoring",
+      "python",
+      "docker",
+      "ci/cd",
+      "aws",
+      "feature stores"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 3)",
+    "description": "We are hiring a Software Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include java, testing, linux, rest api, git, algorithms. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "testing",
+      "linux",
+      "rest api",
+      "git",
+      "algorithms",
+      "agile",
+      "sql",
+      "python"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 3)",
+    "description": "We are hiring a Senior Software Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include git, java, linux, rest api, algorithms, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "git",
+      "java",
+      "linux",
+      "rest api",
+      "algorithms",
+      "agile"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 3)",
+    "description": "We are hiring a Platform Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include redis, aws, python, java, postgresql, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "redis",
+      "aws",
+      "python",
+      "java",
+      "postgresql",
+      "rest api",
+      "grpc"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 3)",
+    "description": "We are hiring a Security Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include threat modeling, owasp, networking, python, security, compliance. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "threat modeling",
+      "owasp",
+      "networking",
+      "python",
+      "security",
+      "compliance",
+      "aws",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 3)",
+    "description": "We are hiring a QA Automation Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include automation, jenkins, selenium, python, ci/cd, api testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "automation",
+      "jenkins",
+      "selenium",
+      "python",
+      "ci/cd",
+      "api testing",
+      "testing",
+      "docker"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 3)",
+    "description": "We are hiring a Product Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include rest api, java, sql, linux, testing, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "java",
+      "sql",
+      "linux",
+      "testing",
+      "python",
+      "algorithms",
+      "git",
+      "agile"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 3)",
+    "description": "We are hiring a Analytics Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include kafka, gcp, postgresql, airflow, sql, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kafka",
+      "gcp",
+      "postgresql",
+      "airflow",
+      "sql",
+      "kubernetes",
+      "docker",
+      "data warehousing",
+      "snowflake",
+      "etl",
+      "aws"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 3)",
+    "description": "We are hiring a Research Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, machine learning, model deployment, experiment tracking, tensorflow, mlflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "machine learning",
+      "model deployment",
+      "experiment tracking",
+      "tensorflow",
+      "mlflow",
+      "pandas",
+      "scikit-learn",
+      "python",
+      "pytorch",
+      "aws",
+      "docker"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 3)",
+    "description": "We are hiring a Embedded Software Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include microcontrollers, embedded, linux, rtos, debugging, c++. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "microcontrollers",
+      "embedded",
+      "linux",
+      "rtos",
+      "debugging",
+      "c++"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 3)",
+    "description": "We are hiring a Mobile Engineer (Team 3). You will work with modern stacks and cross-functional teams. Key technologies include swift, rest api, kotlin, android, mobile development, ios. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "swift",
+      "rest api",
+      "kotlin",
+      "android",
+      "mobile development",
+      "ios"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 4)",
+    "description": "We are hiring a Machine Learning Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include pandas, numpy, pytorch, docker, aws, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pandas",
+      "numpy",
+      "pytorch",
+      "docker",
+      "aws",
+      "python",
+      "mlflow",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 4)",
+    "description": "We are hiring a Senior ML Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include feature engineering, pandas, pytorch, experiment tracking, machine learning, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "feature engineering",
+      "pandas",
+      "pytorch",
+      "experiment tracking",
+      "machine learning",
+      "kubernetes",
+      "scikit-learn",
+      "tensorflow",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 4)",
+    "description": "We are hiring a Data Scientist (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include numpy, sql, communication, statistics, python, experiment design. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "numpy",
+      "sql",
+      "communication",
+      "statistics",
+      "python",
+      "experiment design",
+      "tableau",
+      "spark",
+      "a/b testing",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 4)",
+    "description": "We are hiring a Applied Scientist (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include pandas, spark, tableau, snowflake, jupyter, numpy. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pandas",
+      "spark",
+      "tableau",
+      "snowflake",
+      "jupyter",
+      "numpy",
+      "sql",
+      "python",
+      "visualization",
+      "statistics",
+      "experiment design"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 4)",
+    "description": "We are hiring a Data Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, docker, etl, kafka, postgresql, spark. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "etl",
+      "kafka",
+      "postgresql",
+      "spark",
+      "data warehousing",
+      "gcp",
+      "dbt",
+      "airflow",
+      "python",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 4)",
+    "description": "We are hiring a Senior Data Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, kafka, airflow, python, spark, gcp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "kafka",
+      "airflow",
+      "python",
+      "spark",
+      "gcp"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 4)",
+    "description": "We are hiring a Backend Software Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include go, kubernetes, aws, redis, postgresql, java. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "go",
+      "kubernetes",
+      "aws",
+      "redis",
+      "postgresql",
+      "java",
+      "docker"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 4)",
+    "description": "We are hiring a Full Stack Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include docker, rest api, react, postgresql, node.js, ci/cd. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "rest api",
+      "react",
+      "postgresql",
+      "node.js",
+      "ci/cd",
+      "aws",
+      "css"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 4)",
+    "description": "We are hiring a DevOps Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include ci/cd, helm, kubernetes, python, docker, grafana. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ci/cd",
+      "helm",
+      "kubernetes",
+      "python",
+      "docker",
+      "grafana",
+      "prometheus",
+      "linux",
+      "aws"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 4)",
+    "description": "We are hiring a Site Reliability Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, terraform, ci/cd, grafana, docker, prometheus. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "terraform",
+      "ci/cd",
+      "grafana",
+      "docker",
+      "prometheus",
+      "python",
+      "aws",
+      "linux",
+      "helm"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 4)",
+    "description": "We are hiring a Cloud Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include linux, networking, monitoring, azure, gcp, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "networking",
+      "monitoring",
+      "azure",
+      "gcp",
+      "kubernetes",
+      "iam",
+      "aws",
+      "terraform",
+      "python"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 4)",
+    "description": "We are hiring a AI Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include tensorflow, docker, experiment tracking, python, feature engineering, scikit-learn. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tensorflow",
+      "docker",
+      "experiment tracking",
+      "python",
+      "feature engineering",
+      "scikit-learn",
+      "pytorch",
+      "model deployment",
+      "deep learning",
+      "aws",
+      "machine learning",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 4)",
+    "description": "We are hiring a NLP Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, aws, pytorch, nlp, python, transformers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "aws",
+      "pytorch",
+      "nlp",
+      "python",
+      "transformers"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 4)",
+    "description": "We are hiring a Computer Vision Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include cuda, pytorch, docker, opencv, computer vision, tensorflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "cuda",
+      "pytorch",
+      "docker",
+      "opencv",
+      "computer vision",
+      "tensorflow",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 4)",
+    "description": "We are hiring a MLOps Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include monitoring, feature stores, ci/cd, kubernetes, mlflow, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "monitoring",
+      "feature stores",
+      "ci/cd",
+      "kubernetes",
+      "mlflow",
+      "python",
+      "aws",
+      "model serving"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 4)",
+    "description": "We are hiring a Software Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include agile, testing, sql, java, algorithms, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "agile",
+      "testing",
+      "sql",
+      "java",
+      "algorithms",
+      "linux",
+      "python",
+      "rest api",
+      "git"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 4)",
+    "description": "We are hiring a Senior Software Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include python, git, testing, algorithms, linux, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "git",
+      "testing",
+      "algorithms",
+      "linux",
+      "rest api",
+      "java",
+      "sql",
+      "agile"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 4)",
+    "description": "We are hiring a Platform Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include python, grpc, docker, aws, rest api, java. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "grpc",
+      "docker",
+      "aws",
+      "rest api",
+      "java",
+      "redis",
+      "postgresql",
+      "distributed systems",
+      "kubernetes",
+      "microservices"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 4)",
+    "description": "We are hiring a Security Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include owasp, networking, python, security, aws, threat modeling. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "owasp",
+      "networking",
+      "python",
+      "security",
+      "aws",
+      "threat modeling",
+      "compliance",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 4)",
+    "description": "We are hiring a QA Automation Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include api testing, selenium, automation, testing, ci/cd, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "api testing",
+      "selenium",
+      "automation",
+      "testing",
+      "ci/cd",
+      "python"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 4)",
+    "description": "We are hiring a Product Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include algorithms, git, linux, testing, java, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "algorithms",
+      "git",
+      "linux",
+      "testing",
+      "java",
+      "rest api",
+      "python"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 4)",
+    "description": "We are hiring a Analytics Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, airflow, etl, aws, docker, postgresql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "airflow",
+      "etl",
+      "aws",
+      "docker",
+      "postgresql",
+      "python",
+      "dbt"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 4)",
+    "description": "We are hiring a Research Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include model deployment, python, kubernetes, aws, numpy, mlflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "model deployment",
+      "python",
+      "kubernetes",
+      "aws",
+      "numpy",
+      "mlflow",
+      "docker",
+      "pandas",
+      "deep learning"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 4)",
+    "description": "We are hiring a Embedded Software Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include linux, c++, embedded, debugging, c, microcontrollers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "c++",
+      "embedded",
+      "debugging",
+      "c",
+      "microcontrollers",
+      "rtos"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 4)",
+    "description": "We are hiring a Mobile Engineer (Team 4). You will work with modern stacks and cross-functional teams. Key technologies include ios, kotlin, android, rest api, swift, mobile development. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ios",
+      "kotlin",
+      "android",
+      "rest api",
+      "swift",
+      "mobile development"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 5)",
+    "description": "We are hiring a Machine Learning Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include numpy, feature engineering, machine learning, docker, tensorflow, model deployment. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "numpy",
+      "feature engineering",
+      "machine learning",
+      "docker",
+      "tensorflow",
+      "model deployment",
+      "python",
+      "mlflow",
+      "experiment tracking",
+      "aws",
+      "kubernetes",
+      "pytorch"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 5)",
+    "description": "We are hiring a Senior ML Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include aws, deep learning, pandas, numpy, feature engineering, tensorflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "deep learning",
+      "pandas",
+      "numpy",
+      "feature engineering",
+      "tensorflow"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 5)",
+    "description": "We are hiring a Data Scientist (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include a/b testing, visualization, jupyter, python, numpy, experiment design. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "a/b testing",
+      "visualization",
+      "jupyter",
+      "python",
+      "numpy",
+      "experiment design",
+      "statistics"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 5)",
+    "description": "We are hiring a Applied Scientist (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, pandas, a/b testing, jupyter, snowflake, visualization. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "pandas",
+      "a/b testing",
+      "jupyter",
+      "snowflake",
+      "visualization",
+      "communication",
+      "spark"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 5)",
+    "description": "We are hiring a Data Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include docker, etl, snowflake, kubernetes, postgresql, data warehousing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "etl",
+      "snowflake",
+      "kubernetes",
+      "postgresql",
+      "data warehousing",
+      "spark",
+      "gcp",
+      "sql"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 5)",
+    "description": "We are hiring a Senior Data Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include docker, airflow, sql, spark, dbt, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "airflow",
+      "sql",
+      "spark",
+      "dbt",
+      "kubernetes",
+      "etl",
+      "snowflake",
+      "kafka",
+      "aws"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 5)",
+    "description": "We are hiring a Backend Software Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include rest api, postgresql, redis, docker, microservices, go. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "postgresql",
+      "redis",
+      "docker",
+      "microservices",
+      "go",
+      "java",
+      "grpc",
+      "aws",
+      "kubernetes",
+      "python"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 5)",
+    "description": "We are hiring a Full Stack Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include typescript, aws, react, node.js, docker, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "typescript",
+      "aws",
+      "react",
+      "node.js",
+      "docker",
+      "testing",
+      "rest api",
+      "css",
+      "ci/cd",
+      "postgresql"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 5)",
+    "description": "We are hiring a DevOps Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, terraform, prometheus, grafana, ci/cd, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "terraform",
+      "prometheus",
+      "grafana",
+      "ci/cd",
+      "linux"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 5)",
+    "description": "We are hiring a Site Reliability Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include grafana, kubernetes, python, prometheus, ci/cd, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "grafana",
+      "kubernetes",
+      "python",
+      "prometheus",
+      "ci/cd",
+      "aws",
+      "terraform"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 5)",
+    "description": "We are hiring a Cloud Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include gcp, monitoring, terraform, kubernetes, networking, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "gcp",
+      "monitoring",
+      "terraform",
+      "kubernetes",
+      "networking",
+      "aws",
+      "iam",
+      "linux"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 5)",
+    "description": "We are hiring a AI Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, pytorch, numpy, model deployment, scikit-learn, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "pytorch",
+      "numpy",
+      "model deployment",
+      "scikit-learn",
+      "docker",
+      "deep learning",
+      "pandas",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 5)",
+    "description": "We are hiring a NLP Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include pytorch, nlp, machine learning, docker, tokenization, transformers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pytorch",
+      "nlp",
+      "machine learning",
+      "docker",
+      "tokenization",
+      "transformers",
+      "aws",
+      "hugging face",
+      "python"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 5)",
+    "description": "We are hiring a Computer Vision Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include cuda, docker, deep learning, python, pytorch, computer vision. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "cuda",
+      "docker",
+      "deep learning",
+      "python",
+      "pytorch",
+      "computer vision",
+      "tensorflow",
+      "opencv"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 5)",
+    "description": "We are hiring a MLOps Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include monitoring, ci/cd, python, kubernetes, docker, model serving. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "monitoring",
+      "ci/cd",
+      "python",
+      "kubernetes",
+      "docker",
+      "model serving",
+      "feature stores",
+      "aws",
+      "mlflow"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 5)",
+    "description": "We are hiring a Software Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include testing, linux, java, git, sql, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "linux",
+      "java",
+      "git",
+      "sql",
+      "agile"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 5)",
+    "description": "We are hiring a Senior Software Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include java, rest api, sql, python, testing, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "rest api",
+      "sql",
+      "python",
+      "testing",
+      "agile",
+      "git"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 5)",
+    "description": "We are hiring a Platform Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include java, kubernetes, microservices, postgresql, grpc, go. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "kubernetes",
+      "microservices",
+      "postgresql",
+      "grpc",
+      "go",
+      "aws",
+      "distributed systems"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 5)",
+    "description": "We are hiring a Security Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include threat modeling, networking, aws, kubernetes, owasp, compliance. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "threat modeling",
+      "networking",
+      "aws",
+      "kubernetes",
+      "owasp",
+      "compliance",
+      "security",
+      "python"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 5)",
+    "description": "We are hiring a QA Automation Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include python, selenium, testing, docker, automation, api testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "selenium",
+      "testing",
+      "docker",
+      "automation",
+      "api testing",
+      "ci/cd",
+      "jenkins"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 5)",
+    "description": "We are hiring a Product Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include testing, agile, linux, algorithms, python, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "agile",
+      "linux",
+      "algorithms",
+      "python",
+      "rest api",
+      "java",
+      "git",
+      "sql"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 5)",
+    "description": "We are hiring a Analytics Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include etl, airflow, postgresql, dbt, spark, sql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "etl",
+      "airflow",
+      "postgresql",
+      "dbt",
+      "spark",
+      "sql",
+      "python",
+      "docker",
+      "aws",
+      "snowflake",
+      "gcp",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 5)",
+    "description": "We are hiring a Research Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include docker, mlflow, machine learning, deep learning, experiment tracking, model deployment. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "mlflow",
+      "machine learning",
+      "deep learning",
+      "experiment tracking",
+      "model deployment"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 5)",
+    "description": "We are hiring a Embedded Software Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include rtos, debugging, c, embedded, c++, microcontrollers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rtos",
+      "debugging",
+      "c",
+      "embedded",
+      "c++",
+      "microcontrollers",
+      "linux"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 5)",
+    "description": "We are hiring a Mobile Engineer (Team 5). You will work with modern stacks and cross-functional teams. Key technologies include mobile development, kotlin, android, ios, swift, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "mobile development",
+      "kotlin",
+      "android",
+      "ios",
+      "swift",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 6)",
+    "description": "We are hiring a Machine Learning Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include deep learning, numpy, model deployment, aws, scikit-learn, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "deep learning",
+      "numpy",
+      "model deployment",
+      "aws",
+      "scikit-learn",
+      "python",
+      "tensorflow",
+      "experiment tracking",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 6)",
+    "description": "We are hiring a Senior ML Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, python, tensorflow, kubernetes, numpy, scikit-learn. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "python",
+      "tensorflow",
+      "kubernetes",
+      "numpy",
+      "scikit-learn",
+      "feature engineering",
+      "model deployment",
+      "machine learning",
+      "pytorch"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 6)",
+    "description": "We are hiring a Data Scientist (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include tableau, visualization, snowflake, sql, experiment design, communication. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tableau",
+      "visualization",
+      "snowflake",
+      "sql",
+      "experiment design",
+      "communication",
+      "python",
+      "statistics",
+      "spark",
+      "pandas",
+      "jupyter"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 6)",
+    "description": "We are hiring a Applied Scientist (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include communication, python, tableau, jupyter, visualization, a/b testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "communication",
+      "python",
+      "tableau",
+      "jupyter",
+      "visualization",
+      "a/b testing",
+      "snowflake",
+      "numpy",
+      "experiment design",
+      "sql",
+      "pandas",
+      "statistics"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 6)",
+    "description": "We are hiring a Data Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include kafka, python, spark, sql, docker, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kafka",
+      "python",
+      "spark",
+      "sql",
+      "docker",
+      "aws"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 6)",
+    "description": "We are hiring a Senior Data Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include dbt, kubernetes, sql, spark, airflow, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "dbt",
+      "kubernetes",
+      "sql",
+      "spark",
+      "airflow",
+      "aws",
+      "gcp"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 6)",
+    "description": "We are hiring a Backend Software Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include go, grpc, kubernetes, rest api, distributed systems, redis. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "go",
+      "grpc",
+      "kubernetes",
+      "rest api",
+      "distributed systems",
+      "redis",
+      "aws",
+      "docker"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 6)",
+    "description": "We are hiring a Full Stack Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include node.js, testing, typescript, react, aws, ci/cd. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "node.js",
+      "testing",
+      "typescript",
+      "react",
+      "aws",
+      "ci/cd",
+      "postgresql",
+      "css",
+      "rest api"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 6)",
+    "description": "We are hiring a DevOps Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include terraform, linux, aws, kubernetes, python, ci/cd. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "terraform",
+      "linux",
+      "aws",
+      "kubernetes",
+      "python",
+      "ci/cd",
+      "prometheus",
+      "helm",
+      "grafana",
+      "docker"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 6)",
+    "description": "We are hiring a Site Reliability Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, prometheus, docker, aws, grafana, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "prometheus",
+      "docker",
+      "aws",
+      "grafana",
+      "linux",
+      "helm",
+      "terraform",
+      "ci/cd",
+      "python"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 6)",
+    "description": "We are hiring a Cloud Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include terraform, python, azure, kubernetes, iam, gcp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "terraform",
+      "python",
+      "azure",
+      "kubernetes",
+      "iam",
+      "gcp",
+      "linux",
+      "networking",
+      "aws",
+      "monitoring"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 6)",
+    "description": "We are hiring a AI Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include numpy, python, feature engineering, experiment tracking, scikit-learn, machine learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "numpy",
+      "python",
+      "feature engineering",
+      "experiment tracking",
+      "scikit-learn",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 6)",
+    "description": "We are hiring a NLP Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include nlp, docker, aws, python, pytorch, transformers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "nlp",
+      "docker",
+      "aws",
+      "python",
+      "pytorch",
+      "transformers",
+      "tokenization"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 6)",
+    "description": "We are hiring a Computer Vision Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include deep learning, computer vision, cuda, pytorch, docker, opencv. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "deep learning",
+      "computer vision",
+      "cuda",
+      "pytorch",
+      "docker",
+      "opencv",
+      "python",
+      "tensorflow"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 6)",
+    "description": "We are hiring a MLOps Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include python, model serving, aws, kubernetes, ci/cd, monitoring. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "model serving",
+      "aws",
+      "kubernetes",
+      "ci/cd",
+      "monitoring",
+      "mlflow",
+      "docker",
+      "feature stores"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 6)",
+    "description": "We are hiring a Software Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include rest api, testing, sql, java, git, algorithms. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "testing",
+      "sql",
+      "java",
+      "git",
+      "algorithms",
+      "agile",
+      "python",
+      "linux"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 6)",
+    "description": "We are hiring a Senior Software Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include python, testing, rest api, sql, git, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "testing",
+      "rest api",
+      "sql",
+      "git",
+      "agile",
+      "java",
+      "linux",
+      "algorithms"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 6)",
+    "description": "We are hiring a Platform Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include distributed systems, grpc, aws, python, docker, go. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "distributed systems",
+      "grpc",
+      "aws",
+      "python",
+      "docker",
+      "go",
+      "microservices",
+      "kubernetes",
+      "rest api",
+      "postgresql",
+      "redis",
+      "java"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 6)",
+    "description": "We are hiring a Security Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include security, compliance, owasp, aws, python, networking. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "security",
+      "compliance",
+      "owasp",
+      "aws",
+      "python",
+      "networking"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 6)",
+    "description": "We are hiring a QA Automation Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include selenium, api testing, python, jenkins, ci/cd, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "selenium",
+      "api testing",
+      "python",
+      "jenkins",
+      "ci/cd",
+      "testing",
+      "automation"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 6)",
+    "description": "We are hiring a Product Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include java, sql, rest api, linux, testing, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "sql",
+      "rest api",
+      "linux",
+      "testing",
+      "agile",
+      "python",
+      "git"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 6)",
+    "description": "We are hiring a Analytics Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include etl, kubernetes, python, dbt, gcp, snowflake. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "etl",
+      "kubernetes",
+      "python",
+      "dbt",
+      "gcp",
+      "snowflake",
+      "spark",
+      "data warehousing",
+      "airflow"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 6)",
+    "description": "We are hiring a Research Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, feature engineering, numpy, tensorflow, mlflow, scikit-learn. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "feature engineering",
+      "numpy",
+      "tensorflow",
+      "mlflow",
+      "scikit-learn",
+      "pytorch",
+      "aws",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 6)",
+    "description": "We are hiring a Embedded Software Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include rtos, linux, microcontrollers, c++, debugging, c. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rtos",
+      "linux",
+      "microcontrollers",
+      "c++",
+      "debugging",
+      "c",
+      "embedded"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 6)",
+    "description": "We are hiring a Mobile Engineer (Team 6). You will work with modern stacks and cross-functional teams. Key technologies include swift, android, rest api, kotlin, ios, mobile development. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "swift",
+      "android",
+      "rest api",
+      "kotlin",
+      "ios",
+      "mobile development"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 7)",
+    "description": "We are hiring a Machine Learning Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include feature engineering, docker, kubernetes, experiment tracking, machine learning, pandas. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "feature engineering",
+      "docker",
+      "kubernetes",
+      "experiment tracking",
+      "machine learning",
+      "pandas"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 7)",
+    "description": "We are hiring a Senior ML Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, pandas, tensorflow, mlflow, model deployment, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "pandas",
+      "tensorflow",
+      "mlflow",
+      "model deployment",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 7)",
+    "description": "We are hiring a Data Scientist (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include tableau, spark, communication, snowflake, sql, visualization. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tableau",
+      "spark",
+      "communication",
+      "snowflake",
+      "sql",
+      "visualization",
+      "experiment design",
+      "pandas"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 7)",
+    "description": "We are hiring a Applied Scientist (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include numpy, statistics, experiment design, jupyter, visualization, a/b testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "numpy",
+      "statistics",
+      "experiment design",
+      "jupyter",
+      "visualization",
+      "a/b testing",
+      "pandas",
+      "python",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 7)",
+    "description": "We are hiring a Data Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include gcp, aws, kubernetes, snowflake, airflow, kafka. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "gcp",
+      "aws",
+      "kubernetes",
+      "snowflake",
+      "airflow",
+      "kafka",
+      "dbt",
+      "data warehousing",
+      "spark",
+      "docker"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 7)",
+    "description": "We are hiring a Senior Data Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include docker, kubernetes, kafka, spark, python, sql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "kafka",
+      "spark",
+      "python",
+      "sql",
+      "dbt",
+      "postgresql",
+      "gcp",
+      "snowflake",
+      "airflow"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 7)",
+    "description": "We are hiring a Backend Software Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include redis, docker, python, kubernetes, aws, microservices. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "redis",
+      "docker",
+      "python",
+      "kubernetes",
+      "aws",
+      "microservices",
+      "go",
+      "postgresql",
+      "distributed systems",
+      "grpc",
+      "java",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 7)",
+    "description": "We are hiring a Full Stack Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include testing, react, docker, ci/cd, node.js, typescript. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "testing",
+      "react",
+      "docker",
+      "ci/cd",
+      "node.js",
+      "typescript"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 7)",
+    "description": "We are hiring a DevOps Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, prometheus, grafana, ci/cd, docker, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "prometheus",
+      "grafana",
+      "ci/cd",
+      "docker",
+      "terraform",
+      "aws"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 7)",
+    "description": "We are hiring a Site Reliability Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include terraform, python, docker, helm, aws, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "terraform",
+      "python",
+      "docker",
+      "helm",
+      "aws",
+      "kubernetes",
+      "linux",
+      "prometheus"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 7)",
+    "description": "We are hiring a Cloud Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include python, kubernetes, azure, monitoring, gcp, iam. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "kubernetes",
+      "azure",
+      "monitoring",
+      "gcp",
+      "iam",
+      "aws",
+      "networking",
+      "terraform"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 7)",
+    "description": "We are hiring a AI Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include aws, experiment tracking, pytorch, scikit-learn, numpy, model deployment. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "experiment tracking",
+      "pytorch",
+      "scikit-learn",
+      "numpy",
+      "model deployment",
+      "feature engineering",
+      "python",
+      "kubernetes",
+      "pandas"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 7)",
+    "description": "We are hiring a NLP Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include aws, tokenization, nlp, python, docker, hugging face. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "tokenization",
+      "nlp",
+      "python",
+      "docker",
+      "hugging face",
+      "transformers",
+      "machine learning",
+      "pytorch"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 7)",
+    "description": "We are hiring a Computer Vision Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include tensorflow, computer vision, deep learning, opencv, cuda, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "tensorflow",
+      "computer vision",
+      "deep learning",
+      "opencv",
+      "cuda",
+      "docker",
+      "pytorch",
+      "python"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 7)",
+    "description": "We are hiring a MLOps Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include monitoring, model serving, mlflow, aws, feature stores, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "monitoring",
+      "model serving",
+      "mlflow",
+      "aws",
+      "feature stores",
+      "docker"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 7)",
+    "description": "We are hiring a Software Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include sql, git, python, java, rest api, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "sql",
+      "git",
+      "python",
+      "java",
+      "rest api",
+      "linux",
+      "testing"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 7)",
+    "description": "We are hiring a Senior Software Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include agile, linux, java, python, sql, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "agile",
+      "linux",
+      "java",
+      "python",
+      "sql",
+      "testing",
+      "git",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 7)",
+    "description": "We are hiring a Platform Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include go, aws, docker, postgresql, redis, java. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "go",
+      "aws",
+      "docker",
+      "postgresql",
+      "redis",
+      "java",
+      "python",
+      "distributed systems",
+      "microservices"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 7)",
+    "description": "We are hiring a Security Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include python, kubernetes, networking, threat modeling, aws, owasp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "kubernetes",
+      "networking",
+      "threat modeling",
+      "aws",
+      "owasp",
+      "security",
+      "compliance"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 7)",
+    "description": "We are hiring a QA Automation Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include docker, python, ci/cd, automation, api testing, selenium. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "python",
+      "ci/cd",
+      "automation",
+      "api testing",
+      "selenium",
+      "testing",
+      "jenkins"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 7)",
+    "description": "We are hiring a Product Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include algorithms, git, python, rest api, agile, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "algorithms",
+      "git",
+      "python",
+      "rest api",
+      "agile",
+      "linux",
+      "sql",
+      "testing",
+      "java"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 7)",
+    "description": "We are hiring a Analytics Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include dbt, data warehousing, postgresql, kafka, spark, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "dbt",
+      "data warehousing",
+      "postgresql",
+      "kafka",
+      "spark",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 7)",
+    "description": "We are hiring a Research Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, model deployment, python, kubernetes, numpy, feature engineering. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "model deployment",
+      "python",
+      "kubernetes",
+      "numpy",
+      "feature engineering",
+      "scikit-learn"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 7)",
+    "description": "We are hiring a Embedded Software Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include microcontrollers, embedded, linux, c, rtos, c++. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "microcontrollers",
+      "embedded",
+      "linux",
+      "c",
+      "rtos",
+      "c++",
+      "debugging"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 7)",
+    "description": "We are hiring a Mobile Engineer (Team 7). You will work with modern stacks and cross-functional teams. Key technologies include rest api, swift, ios, android, kotlin, mobile development. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "swift",
+      "ios",
+      "android",
+      "kotlin",
+      "mobile development"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 8)",
+    "description": "We are hiring a Machine Learning Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, mlflow, deep learning, python, tensorflow, feature engineering. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "mlflow",
+      "deep learning",
+      "python",
+      "tensorflow",
+      "feature engineering",
+      "docker",
+      "kubernetes",
+      "model deployment",
+      "scikit-learn"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 8)",
+    "description": "We are hiring a Senior ML Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include scikit-learn, pytorch, docker, numpy, experiment tracking, deep learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "scikit-learn",
+      "pytorch",
+      "docker",
+      "numpy",
+      "experiment tracking",
+      "deep learning",
+      "machine learning",
+      "python",
+      "pandas",
+      "model deployment",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 8)",
+    "description": "We are hiring a Data Scientist (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include communication, tableau, sql, experiment design, statistics, numpy. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "communication",
+      "tableau",
+      "sql",
+      "experiment design",
+      "statistics",
+      "numpy",
+      "jupyter",
+      "visualization",
+      "python",
+      "machine learning",
+      "a/b testing",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 8)",
+    "description": "We are hiring a Applied Scientist (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, statistics, snowflake, pandas, tableau, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "statistics",
+      "snowflake",
+      "pandas",
+      "tableau",
+      "python"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 8)",
+    "description": "We are hiring a Data Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include dbt, python, kafka, sql, kubernetes, data warehousing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "dbt",
+      "python",
+      "kafka",
+      "sql",
+      "kubernetes",
+      "data warehousing",
+      "docker"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 8)",
+    "description": "We are hiring a Senior Data Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include gcp, aws, dbt, airflow, docker, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "gcp",
+      "aws",
+      "dbt",
+      "airflow",
+      "docker",
+      "python",
+      "data warehousing",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 8)",
+    "description": "We are hiring a Backend Software Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include java, distributed systems, docker, microservices, kubernetes, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "distributed systems",
+      "docker",
+      "microservices",
+      "kubernetes",
+      "python",
+      "redis",
+      "grpc",
+      "aws"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 8)",
+    "description": "We are hiring a Full Stack Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include node.js, css, ci/cd, testing, aws, postgresql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "node.js",
+      "css",
+      "ci/cd",
+      "testing",
+      "aws",
+      "postgresql",
+      "rest api",
+      "react",
+      "typescript",
+      "docker"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 8)",
+    "description": "We are hiring a DevOps Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include docker, ci/cd, grafana, terraform, linux, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "ci/cd",
+      "grafana",
+      "terraform",
+      "linux",
+      "python",
+      "aws",
+      "prometheus",
+      "helm",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 8)",
+    "description": "We are hiring a Site Reliability Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include prometheus, kubernetes, helm, aws, ci/cd, grafana. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "prometheus",
+      "kubernetes",
+      "helm",
+      "aws",
+      "ci/cd",
+      "grafana",
+      "python",
+      "terraform",
+      "linux",
+      "docker"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 8)",
+    "description": "We are hiring a Cloud Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include python, networking, azure, linux, monitoring, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "networking",
+      "azure",
+      "linux",
+      "monitoring",
+      "terraform"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 8)",
+    "description": "We are hiring a AI Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, model deployment, pandas, feature engineering, deep learning, scikit-learn. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "model deployment",
+      "pandas",
+      "feature engineering",
+      "deep learning",
+      "scikit-learn",
+      "python"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 8)",
+    "description": "We are hiring a NLP Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include pytorch, docker, tokenization, python, aws, machine learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pytorch",
+      "docker",
+      "tokenization",
+      "python",
+      "aws",
+      "machine learning",
+      "hugging face",
+      "nlp"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 8)",
+    "description": "We are hiring a Computer Vision Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include pytorch, cuda, python, deep learning, computer vision, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pytorch",
+      "cuda",
+      "python",
+      "deep learning",
+      "computer vision",
+      "docker",
+      "tensorflow",
+      "opencv"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 8)",
+    "description": "We are hiring a MLOps Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, monitoring, feature stores, python, aws, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "monitoring",
+      "feature stores",
+      "python",
+      "aws",
+      "docker",
+      "mlflow",
+      "model serving",
+      "ci/cd"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 8)",
+    "description": "We are hiring a Software Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include sql, java, python, testing, algorithms, git. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "sql",
+      "java",
+      "python",
+      "testing",
+      "algorithms",
+      "git",
+      "agile",
+      "rest api",
+      "linux"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 8)",
+    "description": "We are hiring a Senior Software Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include sql, rest api, linux, python, algorithms, git. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "sql",
+      "rest api",
+      "linux",
+      "python",
+      "algorithms",
+      "git",
+      "testing",
+      "java",
+      "agile"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 8)",
+    "description": "We are hiring a Platform Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include redis, go, kubernetes, postgresql, python, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "redis",
+      "go",
+      "kubernetes",
+      "postgresql",
+      "python",
+      "docker"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 8)",
+    "description": "We are hiring a Security Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include aws, networking, kubernetes, python, compliance, owasp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "networking",
+      "kubernetes",
+      "python",
+      "compliance",
+      "owasp",
+      "threat modeling"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 8)",
+    "description": "We are hiring a QA Automation Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include python, testing, jenkins, docker, automation, selenium. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "testing",
+      "jenkins",
+      "docker",
+      "automation",
+      "selenium",
+      "ci/cd",
+      "api testing"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 8)",
+    "description": "We are hiring a Product Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include linux, agile, testing, rest api, sql, java. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "linux",
+      "agile",
+      "testing",
+      "rest api",
+      "sql",
+      "java",
+      "git",
+      "algorithms",
+      "python"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 8)",
+    "description": "We are hiring a Analytics Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include sql, kubernetes, python, spark, gcp, data warehousing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "sql",
+      "kubernetes",
+      "python",
+      "spark",
+      "gcp",
+      "data warehousing",
+      "kafka",
+      "postgresql",
+      "docker",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 8)",
+    "description": "We are hiring a Research Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include pandas, python, pytorch, mlflow, machine learning, model deployment. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pandas",
+      "python",
+      "pytorch",
+      "mlflow",
+      "machine learning",
+      "model deployment",
+      "tensorflow",
+      "deep learning",
+      "docker",
+      "kubernetes",
+      "aws"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 8)",
+    "description": "We are hiring a Embedded Software Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include c, embedded, c++, rtos, debugging, microcontrollers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "c",
+      "embedded",
+      "c++",
+      "rtos",
+      "debugging",
+      "microcontrollers",
+      "linux"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 8)",
+    "description": "We are hiring a Mobile Engineer (Team 8). You will work with modern stacks and cross-functional teams. Key technologies include android, ios, rest api, swift, mobile development, kotlin. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "android",
+      "ios",
+      "rest api",
+      "swift",
+      "mobile development",
+      "kotlin"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 9)",
+    "description": "We are hiring a Machine Learning Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include experiment tracking, machine learning, python, pytorch, tensorflow, feature engineering. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "experiment tracking",
+      "machine learning",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "feature engineering",
+      "aws"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 9)",
+    "description": "We are hiring a Senior ML Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include deep learning, numpy, pandas, docker, machine learning, tensorflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "deep learning",
+      "numpy",
+      "pandas",
+      "docker",
+      "machine learning",
+      "tensorflow",
+      "mlflow",
+      "pytorch"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 9)",
+    "description": "We are hiring a Data Scientist (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include sql, experiment design, communication, numpy, jupyter, machine learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "sql",
+      "experiment design",
+      "communication",
+      "numpy",
+      "jupyter",
+      "machine learning",
+      "spark",
+      "pandas",
+      "snowflake"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 9)",
+    "description": "We are hiring a Applied Scientist (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include jupyter, statistics, numpy, visualization, a/b testing, machine learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "jupyter",
+      "statistics",
+      "numpy",
+      "visualization",
+      "a/b testing",
+      "machine learning",
+      "experiment design",
+      "python",
+      "tableau",
+      "pandas"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 9)",
+    "description": "We are hiring a Data Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include etl, snowflake, gcp, aws, spark, dbt. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "etl",
+      "snowflake",
+      "gcp",
+      "aws",
+      "spark",
+      "dbt",
+      "docker",
+      "sql",
+      "kubernetes",
+      "data warehousing",
+      "python"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 9)",
+    "description": "We are hiring a Senior Data Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include kubernetes, aws, dbt, gcp, python, postgresql. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "kubernetes",
+      "aws",
+      "dbt",
+      "gcp",
+      "python",
+      "postgresql",
+      "data warehousing",
+      "docker",
+      "snowflake",
+      "airflow",
+      "etl",
+      "sql"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 9)",
+    "description": "We are hiring a Backend Software Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include grpc, kubernetes, microservices, python, docker, rest api. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "grpc",
+      "kubernetes",
+      "microservices",
+      "python",
+      "docker",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 9)",
+    "description": "We are hiring a Full Stack Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include docker, aws, postgresql, testing, react, ci/cd. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "aws",
+      "postgresql",
+      "testing",
+      "react",
+      "ci/cd",
+      "node.js"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 9)",
+    "description": "We are hiring a DevOps Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include python, aws, linux, ci/cd, docker, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "aws",
+      "linux",
+      "ci/cd",
+      "docker",
+      "terraform",
+      "grafana",
+      "helm"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 9)",
+    "description": "We are hiring a Site Reliability Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include docker, kubernetes, linux, helm, ci/cd, grafana. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "linux",
+      "helm",
+      "ci/cd",
+      "grafana",
+      "aws",
+      "terraform",
+      "prometheus"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 9)",
+    "description": "We are hiring a Cloud Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include aws, gcp, monitoring, linux, python, iam. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "gcp",
+      "monitoring",
+      "linux",
+      "python",
+      "iam",
+      "azure",
+      "kubernetes",
+      "networking",
+      "terraform"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 9)",
+    "description": "We are hiring a AI Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include model deployment, pandas, python, tensorflow, feature engineering, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "model deployment",
+      "pandas",
+      "python",
+      "tensorflow",
+      "feature engineering",
+      "kubernetes",
+      "numpy",
+      "pytorch",
+      "mlflow",
+      "scikit-learn",
+      "aws"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 9)",
+    "description": "We are hiring a NLP Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include docker, transformers, aws, tokenization, pytorch, machine learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "transformers",
+      "aws",
+      "tokenization",
+      "pytorch",
+      "machine learning",
+      "hugging face",
+      "nlp",
+      "python"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 9)",
+    "description": "We are hiring a Computer Vision Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include opencv, cuda, python, computer vision, deep learning, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "opencv",
+      "cuda",
+      "python",
+      "computer vision",
+      "deep learning",
+      "docker"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 9)",
+    "description": "We are hiring a MLOps Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include monitoring, model serving, python, ci/cd, docker, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "monitoring",
+      "model serving",
+      "python",
+      "ci/cd",
+      "docker",
+      "aws",
+      "mlflow"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 9)",
+    "description": "We are hiring a Software Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include sql, git, java, testing, python, algorithms. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "sql",
+      "git",
+      "java",
+      "testing",
+      "python",
+      "algorithms",
+      "agile",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 9)",
+    "description": "We are hiring a Senior Software Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include rest api, agile, git, sql, algorithms, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "agile",
+      "git",
+      "sql",
+      "algorithms",
+      "linux",
+      "python",
+      "java",
+      "testing"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 9)",
+    "description": "We are hiring a Platform Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include aws, docker, postgresql, go, rest api, distributed systems. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "docker",
+      "postgresql",
+      "go",
+      "rest api",
+      "distributed systems",
+      "grpc",
+      "redis",
+      "microservices",
+      "java"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 9)",
+    "description": "We are hiring a Security Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include owasp, compliance, aws, python, threat modeling, security. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "owasp",
+      "compliance",
+      "aws",
+      "python",
+      "threat modeling",
+      "security",
+      "networking",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 9)",
+    "description": "We are hiring a QA Automation Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include api testing, python, testing, automation, ci/cd, jenkins. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "api testing",
+      "python",
+      "testing",
+      "automation",
+      "ci/cd",
+      "jenkins",
+      "docker",
+      "selenium"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 9)",
+    "description": "We are hiring a Product Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include rest api, java, sql, agile, git, testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "rest api",
+      "java",
+      "sql",
+      "agile",
+      "git",
+      "testing"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 9)",
+    "description": "We are hiring a Analytics Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include postgresql, dbt, aws, data warehousing, python, gcp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "postgresql",
+      "dbt",
+      "aws",
+      "data warehousing",
+      "python",
+      "gcp",
+      "sql"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 9)",
+    "description": "We are hiring a Research Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, pandas, tensorflow, experiment tracking, deep learning, numpy. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "pandas",
+      "tensorflow",
+      "experiment tracking",
+      "deep learning",
+      "numpy",
+      "kubernetes",
+      "model deployment"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 9)",
+    "description": "We are hiring a Embedded Software Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include microcontrollers, embedded, c, linux, c++, debugging. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "microcontrollers",
+      "embedded",
+      "c",
+      "linux",
+      "c++",
+      "debugging",
+      "rtos"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 9)",
+    "description": "We are hiring a Mobile Engineer (Team 9). You will work with modern stacks and cross-functional teams. Key technologies include swift, ios, rest api, kotlin, mobile development, android. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "swift",
+      "ios",
+      "rest api",
+      "kotlin",
+      "mobile development",
+      "android"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 10)",
+    "description": "We are hiring a Machine Learning Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include python, deep learning, machine learning, model deployment, pytorch, experiment tracking. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "deep learning",
+      "machine learning",
+      "model deployment",
+      "pytorch",
+      "experiment tracking",
+      "docker",
+      "tensorflow",
+      "numpy",
+      "scikit-learn",
+      "pandas"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 10)",
+    "description": "We are hiring a Senior ML Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include aws, pytorch, numpy, pandas, scikit-learn, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "pytorch",
+      "numpy",
+      "pandas",
+      "scikit-learn",
+      "kubernetes",
+      "feature engineering",
+      "deep learning",
+      "model deployment",
+      "machine learning",
+      "tensorflow",
+      "docker"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 10)",
+    "description": "We are hiring a Data Scientist (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, python, pandas, jupyter, snowflake, spark. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "python",
+      "pandas",
+      "jupyter",
+      "snowflake",
+      "spark"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 10)",
+    "description": "We are hiring a Applied Scientist (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include numpy, python, pandas, jupyter, visualization, snowflake. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "numpy",
+      "python",
+      "pandas",
+      "jupyter",
+      "visualization",
+      "snowflake",
+      "sql"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 10)",
+    "description": "We are hiring a Data Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include postgresql, airflow, dbt, data warehousing, docker, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "postgresql",
+      "airflow",
+      "dbt",
+      "data warehousing",
+      "docker",
+      "kubernetes",
+      "gcp",
+      "kafka"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer (Team 10)",
+    "description": "We are hiring a Senior Data Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include dbt, kafka, postgresql, python, etl, airflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "dbt",
+      "kafka",
+      "postgresql",
+      "python",
+      "etl",
+      "airflow",
+      "sql",
+      "snowflake",
+      "spark"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer (Team 10)",
+    "description": "We are hiring a Backend Software Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include java, redis, postgresql, go, microservices, distributed systems. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "redis",
+      "postgresql",
+      "go",
+      "microservices",
+      "distributed systems",
+      "aws",
+      "docker",
+      "rest api",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Full Stack Engineer (Team 10)",
+    "description": "We are hiring a Full Stack Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include postgresql, typescript, react, rest api, testing, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "postgresql",
+      "typescript",
+      "react",
+      "rest api",
+      "testing",
+      "aws",
+      "node.js",
+      "css",
+      "ci/cd",
+      "docker"
+    ]
+  },
+  {
+    "title": "DevOps Engineer (Team 10)",
+    "description": "We are hiring a DevOps Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include docker, prometheus, ci/cd, kubernetes, helm, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "prometheus",
+      "ci/cd",
+      "kubernetes",
+      "helm",
+      "linux",
+      "terraform",
+      "aws",
+      "grafana",
+      "python"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (Team 10)",
+    "description": "We are hiring a Site Reliability Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include helm, ci/cd, docker, aws, grafana, linux. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "helm",
+      "ci/cd",
+      "docker",
+      "aws",
+      "grafana",
+      "linux"
+    ]
+  },
+  {
+    "title": "Cloud Engineer (Team 10)",
+    "description": "We are hiring a Cloud Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include aws, linux, gcp, iam, azure, terraform. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "aws",
+      "linux",
+      "gcp",
+      "iam",
+      "azure",
+      "terraform",
+      "python"
+    ]
+  },
+  {
+    "title": "AI Engineer (Team 10)",
+    "description": "We are hiring a AI Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include python, scikit-learn, machine learning, feature engineering, pytorch, experiment tracking. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "scikit-learn",
+      "machine learning",
+      "feature engineering",
+      "pytorch",
+      "experiment tracking",
+      "pandas",
+      "tensorflow"
+    ]
+  },
+  {
+    "title": "NLP Engineer (Team 10)",
+    "description": "We are hiring a NLP Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include docker, pytorch, nlp, machine learning, tokenization, aws. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "docker",
+      "pytorch",
+      "nlp",
+      "machine learning",
+      "tokenization",
+      "aws",
+      "hugging face",
+      "python",
+      "transformers"
+    ]
+  },
+  {
+    "title": "Computer Vision Engineer (Team 10)",
+    "description": "We are hiring a Computer Vision Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include deep learning, computer vision, docker, python, pytorch, tensorflow. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "deep learning",
+      "computer vision",
+      "docker",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "cuda",
+      "opencv"
+    ]
+  },
+  {
+    "title": "MLOps Engineer (Team 10)",
+    "description": "We are hiring a MLOps Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include ci/cd, mlflow, monitoring, model serving, python, feature stores. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ci/cd",
+      "mlflow",
+      "monitoring",
+      "model serving",
+      "python",
+      "feature stores",
+      "aws",
+      "docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "title": "Software Engineer (Team 10)",
+    "description": "We are hiring a Software Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include java, algorithms, sql, testing, agile, git. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "algorithms",
+      "sql",
+      "testing",
+      "agile",
+      "git",
+      "linux",
+      "python",
+      "rest api"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (Team 10)",
+    "description": "We are hiring a Senior Software Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include java, agile, sql, testing, python, algorithms. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "agile",
+      "sql",
+      "testing",
+      "python",
+      "algorithms"
+    ]
+  },
+  {
+    "title": "Platform Engineer (Team 10)",
+    "description": "We are hiring a Platform Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include java, kubernetes, grpc, postgresql, aws, redis. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "java",
+      "kubernetes",
+      "grpc",
+      "postgresql",
+      "aws",
+      "redis",
+      "microservices"
+    ]
+  },
+  {
+    "title": "Security Engineer (Team 10)",
+    "description": "We are hiring a Security Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include threat modeling, security, kubernetes, compliance, owasp, networking. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "threat modeling",
+      "security",
+      "kubernetes",
+      "compliance",
+      "owasp",
+      "networking",
+      "aws",
+      "python"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (Team 10)",
+    "description": "We are hiring a QA Automation Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include ci/cd, testing, selenium, docker, automation, python. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "ci/cd",
+      "testing",
+      "selenium",
+      "docker",
+      "automation",
+      "python",
+      "api testing",
+      "jenkins"
+    ]
+  },
+  {
+    "title": "Product Engineer (Team 10)",
+    "description": "We are hiring a Product Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include algorithms, testing, git, java, linux, agile. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "algorithms",
+      "testing",
+      "git",
+      "java",
+      "linux",
+      "agile",
+      "python",
+      "rest api",
+      "sql"
+    ]
+  },
+  {
+    "title": "Analytics Engineer (Team 10)",
+    "description": "We are hiring a Analytics Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include airflow, snowflake, postgresql, spark, kafka, kubernetes. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "airflow",
+      "snowflake",
+      "postgresql",
+      "spark",
+      "kafka",
+      "kubernetes",
+      "aws",
+      "python",
+      "sql",
+      "gcp",
+      "etl"
+    ]
+  },
+  {
+    "title": "Research Engineer (Team 10)",
+    "description": "We are hiring a Research Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include scikit-learn, docker, pandas, model deployment, aws, deep learning. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "scikit-learn",
+      "docker",
+      "pandas",
+      "model deployment",
+      "aws",
+      "deep learning",
+      "machine learning",
+      "tensorflow",
+      "python",
+      "mlflow",
+      "experiment tracking",
+      "numpy"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineer (Team 10)",
+    "description": "We are hiring a Embedded Software Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include embedded, linux, c++, c, rtos, microcontrollers. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "embedded",
+      "linux",
+      "c++",
+      "c",
+      "rtos",
+      "microcontrollers"
+    ]
+  },
+  {
+    "title": "Mobile Engineer (Team 10)",
+    "description": "We are hiring a Mobile Engineer (Team 10). You will work with modern stacks and cross-functional teams. Key technologies include swift, rest api, mobile development, ios, kotlin, android. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "swift",
+      "rest api",
+      "mobile development",
+      "ios",
+      "kotlin",
+      "android"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer (Team 11)",
+    "description": "We are hiring a Machine Learning Engineer (Team 11). You will work with modern stacks and cross-functional teams. Key technologies include mlflow, model deployment, numpy, feature engineering, kubernetes, scikit-learn. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "mlflow",
+      "model deployment",
+      "numpy",
+      "feature engineering",
+      "kubernetes",
+      "scikit-learn",
+      "deep learning",
+      "python"
+    ]
+  },
+  {
+    "title": "Senior ML Engineer (Team 11)",
+    "description": "We are hiring a Senior ML Engineer (Team 11). You will work with modern stacks and cross-functional teams. Key technologies include machine learning, pytorch, feature engineering, model deployment, experiment tracking, docker. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "machine learning",
+      "pytorch",
+      "feature engineering",
+      "model deployment",
+      "experiment tracking",
+      "docker",
+      "tensorflow",
+      "scikit-learn",
+      "mlflow"
+    ]
+  },
+  {
+    "title": "Data Scientist (Team 11)",
+    "description": "We are hiring a Data Scientist (Team 11). You will work with modern stacks and cross-functional teams. Key technologies include python, spark, a/b testing, jupyter, machine learning, visualization. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "python",
+      "spark",
+      "a/b testing",
+      "jupyter",
+      "machine learning",
+      "visualization",
+      "statistics",
+      "tableau",
+      "experiment design",
+      "pandas"
+    ]
+  },
+  {
+    "title": "Applied Scientist (Team 11)",
+    "description": "We are hiring a Applied Scientist (Team 11). You will work with modern stacks and cross-functional teams. Key technologies include pandas, communication, tableau, spark, snowflake, a/b testing. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "pandas",
+      "communication",
+      "tableau",
+      "spark",
+      "snowflake",
+      "a/b testing",
+      "statistics",
+      "visualization",
+      "numpy",
+      "python",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "Data Engineer (Team 11)",
+    "description": "We are hiring a Data Engineer (Team 11). You will work with modern stacks and cross-functional teams. Key technologies include spark, kubernetes, kafka, etl, airflow, gcp. Collaborate on design reviews, ship reliable software, and improve observability. Strong communication and ownership expected.",
+    "skills": [
+      "spark",
+      "kubernetes",
+      "kafka",
+      "etl",
+      "airflow",
+      "gcp",
+      "python",
+      "sql",
+      "docker",
+      "data warehousing",
+      "postgresql",
+      "aws"
+    ]
+  }
+]

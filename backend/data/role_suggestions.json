@@ -1,0 +1,11 @@
+{
+  "Data Scientist": ["Python", "Machine Learning", "statistics", "TensorFlow", "PyTorch", "Pandas", "SQL", "scikit-learn", "data pipelines", "A/B testing"],
+  "ML Engineer": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "Docker", "Kubernetes", "CI/CD", "AWS", "model deployment", "MLOps"],
+  "Data Engineer": ["Python", "SQL", "Spark", "Apache Spark", "ETL", "Airflow", "dbt", "data pipelines", "data warehousing", "AWS"],
+  "Data Analyst": ["Python", "SQL", "Pandas", "statistics", "A/B testing", "data pipelines", "Excel", "visualization"],
+  "Software Engineer": ["Python", "Java", "JavaScript", "SQL", "Git", "Agile", "Docker", "Linux", "CI/CD"],
+  "NLP Engineer": ["Python", "NLP", "Natural Language Processing", "Transformers", "BERT", "PyTorch", "spaCy", "TensorFlow"],
+  "Computer Vision Engineer": ["Python", "Computer Vision", "OpenCV", "CNN", "PyTorch", "TensorFlow", "object detection", "image segmentation"],
+  "DevOps Engineer": ["Docker", "Kubernetes", "CI/CD", "Linux", "AWS", "Azure", "GCP", "Git", "Python"],
+  "Research Scientist": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "statistics", "research", "NLP", "Computer Vision"]
+}

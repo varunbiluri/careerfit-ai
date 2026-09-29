@@ -1,0 +1,260 @@
+[
+  {
+    "job_id": 1,
+    "external_id": "scraped_01571e0b53d095894f7a3a85b52e9e0a",
+    "title": "Sign in",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 2,
+    "external_id": "scraped_6ad74e17d4a1d6265db5be2f512bbb63",
+    "title": "Sign in",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 3,
+    "external_id": "scraped_76d28132e3d1efe06491a374b4dbb242",
+    "title": "Sign in",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 4,
+    "external_id": "scraped_9afede0ca535e784925e18106331d7aa",
+    "title": "Data Scientist",
+    "company": "",
+    "skill_names": [
+      "statistics",
+      "Natural Language Processing",
+      "GCP",
+      "BERT",
+      "Julia",
+      "data pipelines",
+      "Transformers",
+      "NLP",
+      "SQL",
+      "Python",
+      "TensorFlow",
+      "Kubeflow",
+      "PyTorch",
+      "MLflow",
+      "Agile",
+      "Git",
+      "linear algebra",
+      "R",
+      "optimization",
+      "Apache Spark",
+      "Scala",
+      "GPT",
+      "A/B testing",
+      "CNN",
+      "Azure",
+      "AWS",
+      "Spark",
+      "scikit-learn",
+      "MLOps"
+    ]
+  },
+  {
+    "job_id": 5,
+    "external_id": "scraped_60f19a4e3178ce5ddfbaa32117b6a301",
+    "title": "Data Scientist - Houston,TX",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "Hugging Face",
+      "AWS",
+      "Natural Language Processing",
+      "SQL",
+      "R",
+      "Python",
+      "TensorFlow",
+      "Scala",
+      "BERT",
+      "NLP",
+      "MLOps",
+      "GPT",
+      "PyTorch"
+    ]
+  },
+  {
+    "job_id": 6,
+    "external_id": "scraped_95641bbe3e84d637d46914d4761aa5ba",
+    "title": "Staff, Data Scientist",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 7,
+    "external_id": "scraped_970defe32a1b90415f5c4ae8a68d66bf",
+    "title": "Staff, Data Scientist",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 8,
+    "external_id": "scraped_3ae8c5c51e4a2785af490883d5e62a3b",
+    "title": "Staff, Data Scientist \u2013 Conversational AI",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 9,
+    "external_id": "scraped_e6c3e983dd91e53e5edf2e363516b9fb",
+    "title": "Data Scientist AI Lead/Advisory role",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 10,
+    "external_id": "scraped_f267df0cf04b48baf0db8d9162cee6f8",
+    "title": "DATA SCIENTIST-SENIOR",
+    "company": "",
+    "skill_names": [
+      "statistics",
+      "Azure ML",
+      "GCP",
+      "model deployment",
+      "BERT",
+      "data pipelines",
+      "AWS SageMaker",
+      "CI/CD",
+      "Java",
+      "SQL",
+      "Pandas",
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "C++",
+      "linear algebra",
+      "R",
+      "Scala",
+      "GPT",
+      "Azure",
+      "AWS",
+      "scikit-learn",
+      "MLOps"
+    ]
+  },
+  {
+    "job_id": 11,
+    "external_id": "scraped_dc5120ca36d1e37d70eec297d54e7666",
+    "title": "Senior Data Scientist",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "statistics",
+      "AWS",
+      "Spark",
+      "scikit-learn",
+      "R",
+      "Pandas",
+      "Python",
+      "spaCy",
+      "sentiment analysis",
+      "BERT",
+      "NLP",
+      "GPT"
+    ]
+  },
+  {
+    "job_id": 12,
+    "external_id": "scraped_1be732caf2da7cec6ad5c57a9ec4966b",
+    "title": "Senior Data Scientist II",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 13,
+    "external_id": "scraped_c06b7852b5ea76542a7a9ed104cdd428",
+    "title": "Senior Data Scientist III",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 14,
+    "external_id": "scraped_eaa1b884537f7425b6839bd9960421e7",
+    "title": "Senior Data Scientist II - Raleigh, NC",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 15,
+    "external_id": "scraped_08e8c518485f4e4721c2ee587497260c",
+    "title": "Data Scientist",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 16,
+    "external_id": "scraped_ac5da67e73a55ec732ea7898ba57720d",
+    "title": "Data Scientist",
+    "company": "",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 17,
+    "external_id": "scraped_1d85e90bbd59373a72cb1fd8371a5fef",
+    "title": "Data Scientist",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "R"
+    ]
+  },
+  {
+    "job_id": 18,
+    "external_id": "scraped_9f0dc42235a134451de18e137ab55867",
+    "title": "Data Scientist",
+    "company": "You may also apply directly on company website .",
+    "skill_names": [
+      "statistics",
+      "Scala",
+      "Kubeflow",
+      "data pipelines",
+      "BERT",
+      "GCP",
+      "model deployment",
+      "A/B testing",
+      "TensorFlow",
+      "Airflow",
+      "PyTorch",
+      "Git",
+      "scikit-learn",
+      "CI/CD",
+      "Agile",
+      "ETL",
+      "MLOps",
+      "GPT",
+      "Python",
+      "AWS",
+      "probability",
+      "MLflow",
+      "R",
+      "SQL"
+    ]
+  }
+]

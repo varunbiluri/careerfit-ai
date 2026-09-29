@@ -1,0 +1,733 @@
+[
+  {
+    "resume_id": 1,
+    "skill_names": [
+      "AWS",
+      "C++",
+      "CI/CD",
+      "Computer Vision",
+      "Docker",
+      "Git",
+      "Julia",
+      "LightGBM",
+      "MLOps",
+      "ONNX",
+      "OpenCV",
+      "SQL",
+      "cloud computing",
+      "image segmentation",
+      "probability"
+    ]
+  },
+  {
+    "resume_id": 2,
+    "skill_names": [
+      "C++",
+      "CNN",
+      "Computer Vision",
+      "Keras",
+      "Linux"
+    ]
+  },
+  {
+    "resume_id": 3,
+    "skill_names": [
+      "Airflow",
+      "Azure",
+      "C++",
+      "Computer Vision",
+      "Docker",
+      "ETL",
+      "Git",
+      "OpenCV",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "data warehousing",
+      "probability",
+      "word2vec"
+    ]
+  },
+  {
+    "resume_id": 4,
+    "skill_names": [
+      "AWS",
+      "Computer Vision",
+      "Docker",
+      "GPT",
+      "Keras",
+      "NLTK",
+      "Natural Language Processing",
+      "SQL",
+      "XGBoost",
+      "dbt"
+    ]
+  },
+  {
+    "resume_id": 5,
+    "skill_names": [
+      "Airflow",
+      "Azure ML",
+      "CatBoost",
+      "Docker",
+      "ETL",
+      "Julia",
+      "NLP",
+      "PyTorch",
+      "ResNet",
+      "linear algebra"
+    ]
+  },
+  {
+    "resume_id": 6,
+    "skill_names": [
+      "Agile",
+      "CI/CD",
+      "CNN",
+      "Google Cloud",
+      "Julia",
+      "LightGBM",
+      "Linux",
+      "MATLAB",
+      "NLTK",
+      "ONNX",
+      "SQL",
+      "Weights & Biases",
+      "data warehousing",
+      "dbt"
+    ]
+  },
+  {
+    "resume_id": 7,
+    "skill_names": [
+      "AWS",
+      "Azure",
+      "Azure ML",
+      "GCP",
+      "Google Cloud",
+      "Jupyter",
+      "MLOps",
+      "MLflow",
+      "PyTorch",
+      "Scala",
+      "Transformers",
+      "cloud computing",
+      "model deployment",
+      "optimization",
+      "sentiment analysis"
+    ]
+  },
+  {
+    "resume_id": 8,
+    "skill_names": [
+      "Airflow",
+      "ETL",
+      "MLOps",
+      "MLflow",
+      "OpenCV",
+      "Spark",
+      "Transformers",
+      "optimization"
+    ]
+  },
+  {
+    "resume_id": 9,
+    "skill_names": [
+      "Azure ML",
+      "CNN",
+      "MLOps",
+      "Pandas",
+      "Scala"
+    ]
+  },
+  {
+    "resume_id": 10,
+    "skill_names": [
+      "Apache Spark",
+      "Azure ML",
+      "Computer Vision",
+      "Jupyter",
+      "TensorBoard",
+      "linear algebra"
+    ]
+  },
+  {
+    "resume_id": 11,
+    "skill_names": [
+      "ONNX",
+      "Pandas",
+      "ResNet",
+      "TensorBoard",
+      "dbt",
+      "image segmentation",
+      "spaCy"
+    ]
+  },
+  {
+    "resume_id": 12,
+    "skill_names": [
+      "Agile",
+      "Azure ML",
+      "Jupyter",
+      "Keras",
+      "LightGBM",
+      "ONNX",
+      "SQL",
+      "TensorFlow"
+    ]
+  },
+  {
+    "resume_id": 13,
+    "skill_names": [
+      "ETL",
+      "Git",
+      "MATLAB",
+      "Spark",
+      "YOLO",
+      "dbt",
+      "optimization"
+    ]
+  },
+  {
+    "resume_id": 14,
+    "skill_names": [
+      "AWS",
+      "CI/CD",
+      "CNN",
+      "Computer Vision",
+      "Google Cloud",
+      "LightGBM",
+      "MLOps",
+      "PyTorch",
+      "Python",
+      "R",
+      "Weights & Biases",
+      "linear algebra",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 15,
+    "skill_names": [
+      "ETL",
+      "GPT",
+      "Linux",
+      "TensorBoard",
+      "TensorFlow",
+      "XGBoost",
+      "model deployment",
+      "spaCy",
+      "word2vec"
+    ]
+  },
+  {
+    "resume_id": 16,
+    "skill_names": [
+      "Git",
+      "Java",
+      "LightGBM",
+      "MLflow",
+      "Python",
+      "Weights & Biases",
+      "optimization"
+    ]
+  },
+  {
+    "resume_id": 17,
+    "skill_names": [
+      "AWS SageMaker",
+      "Google Cloud",
+      "JavaScript",
+      "Linux",
+      "PyTorch",
+      "Scala",
+      "Weights & Biases",
+      "data pipelines",
+      "image segmentation",
+      "object detection"
+    ]
+  },
+  {
+    "resume_id": 18,
+    "skill_names": [
+      "A/B testing",
+      "Azure",
+      "BERT",
+      "ETL",
+      "Google Cloud",
+      "Hugging Face",
+      "MLOps",
+      "ResNet",
+      "TensorBoard",
+      "XGBoost",
+      "dbt",
+      "hypothesis testing",
+      "optimization"
+    ]
+  },
+  {
+    "resume_id": 19,
+    "skill_names": [
+      "AWS SageMaker",
+      "CatBoost",
+      "Jupyter",
+      "LightGBM",
+      "Pandas",
+      "cloud computing",
+      "probability",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 20,
+    "skill_names": [
+      "AWS",
+      "CNN",
+      "Java",
+      "OpenCV",
+      "Python",
+      "TensorFlow"
+    ]
+  },
+  {
+    "resume_id": 21,
+    "skill_names": [
+      "CNN",
+      "CatBoost",
+      "Google Cloud",
+      "JavaScript",
+      "Kubeflow",
+      "Linux",
+      "MATLAB",
+      "MLOps",
+      "ONNX",
+      "Scala",
+      "TensorFlow",
+      "XGBoost",
+      "YOLO",
+      "experiment tracking",
+      "image segmentation"
+    ]
+  },
+  {
+    "resume_id": 22,
+    "skill_names": [
+      "A/B testing",
+      "CNN",
+      "Computer Vision",
+      "GPT",
+      "Kubeflow",
+      "NLTK",
+      "SQL",
+      "TensorBoard",
+      "data pipelines",
+      "data warehousing",
+      "experiment tracking",
+      "image segmentation",
+      "scikit-learn",
+      "sentiment analysis"
+    ]
+  },
+  {
+    "resume_id": 23,
+    "skill_names": [
+      "AWS",
+      "JavaScript",
+      "Pandas",
+      "XGBoost",
+      "scikit-learn"
+    ]
+  },
+  {
+    "resume_id": 24,
+    "skill_names": [
+      "Agile",
+      "CNN",
+      "NLTK",
+      "ONNX",
+      "TensorBoard",
+      "dbt",
+      "probability",
+      "spaCy"
+    ]
+  },
+  {
+    "resume_id": 25,
+    "skill_names": [
+      "ETL",
+      "Keras",
+      "R",
+      "SQL",
+      "TensorFlow",
+      "optimization",
+      "scikit-learn",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 26,
+    "skill_names": [
+      "BERT",
+      "C++",
+      "Computer Vision",
+      "Git",
+      "Pandas",
+      "data pipelines",
+      "hypothesis testing",
+      "probability"
+    ]
+  },
+  {
+    "resume_id": 27,
+    "skill_names": [
+      "Computer Vision",
+      "ETL",
+      "Kubernetes",
+      "Python",
+      "ResNet",
+      "Spark",
+      "linear algebra"
+    ]
+  },
+  {
+    "resume_id": 28,
+    "skill_names": [
+      "Agile",
+      "C++",
+      "CI/CD",
+      "Computer Vision",
+      "Git",
+      "JavaScript",
+      "MLOps",
+      "NLTK",
+      "Natural Language Processing",
+      "Transformers",
+      "cloud computing",
+      "hypothesis testing",
+      "optimization"
+    ]
+  },
+  {
+    "resume_id": 29,
+    "skill_names": [
+      "JavaScript",
+      "Linux",
+      "Transformers",
+      "Weights & Biases",
+      "hypothesis testing"
+    ]
+  },
+  {
+    "resume_id": 30,
+    "skill_names": [
+      "A/B testing",
+      "CI/CD",
+      "CatBoost",
+      "JavaScript",
+      "Kubernetes",
+      "MATLAB",
+      "Pandas",
+      "PyTorch",
+      "experiment tracking",
+      "model deployment",
+      "object detection",
+      "spaCy",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 31,
+    "skill_names": [
+      "Airflow",
+      "Azure ML",
+      "PyTorch",
+      "ResNet",
+      "experiment tracking"
+    ]
+  },
+  {
+    "resume_id": 32,
+    "skill_names": [
+      "Apache Spark",
+      "Azure ML",
+      "CNN",
+      "Hugging Face",
+      "ResNet",
+      "Transformers",
+      "model deployment",
+      "object detection"
+    ]
+  },
+  {
+    "resume_id": 33,
+    "skill_names": [
+      "Computer Vision",
+      "R",
+      "ResNet",
+      "TensorFlow",
+      "linear algebra",
+      "scikit-learn"
+    ]
+  },
+  {
+    "resume_id": 34,
+    "skill_names": [
+      "Azure",
+      "Kubernetes",
+      "MATLAB",
+      "OpenCV",
+      "Transformers",
+      "cloud computing",
+      "image segmentation"
+    ]
+  },
+  {
+    "resume_id": 35,
+    "skill_names": [
+      "Docker",
+      "Hugging Face",
+      "JavaScript",
+      "ONNX",
+      "R",
+      "SQL",
+      "TensorBoard",
+      "TensorFlow",
+      "Weights & Biases",
+      "XGBoost",
+      "cloud computing",
+      "model deployment",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 36,
+    "skill_names": [
+      "AWS",
+      "Git",
+      "Hugging Face",
+      "Kubernetes",
+      "ResNet",
+      "Weights & Biases",
+      "linear algebra",
+      "probability",
+      "sentiment analysis"
+    ]
+  },
+  {
+    "resume_id": 37,
+    "skill_names": [
+      "Docker",
+      "Julia",
+      "Keras",
+      "Python",
+      "dbt"
+    ]
+  },
+  {
+    "resume_id": 38,
+    "skill_names": [
+      "A/B testing",
+      "Agile",
+      "Hugging Face",
+      "JavaScript",
+      "R",
+      "ResNet",
+      "Scala",
+      "Transformers",
+      "dbt",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 39,
+    "skill_names": [
+      "Hugging Face",
+      "Julia",
+      "NLP",
+      "Natural Language Processing",
+      "Scala",
+      "cloud computing",
+      "data warehousing"
+    ]
+  },
+  {
+    "resume_id": 40,
+    "skill_names": [
+      "Docker",
+      "GCP",
+      "Julia",
+      "Spark",
+      "Weights & Biases",
+      "XGBoost",
+      "data warehousing",
+      "image segmentation",
+      "sentiment analysis",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 41,
+    "skill_names": [
+      "Apache Spark",
+      "BERT",
+      "C++",
+      "GPT",
+      "Keras",
+      "Natural Language Processing",
+      "Transformers",
+      "cloud computing",
+      "data pipelines",
+      "object detection",
+      "optimization"
+    ]
+  },
+  {
+    "resume_id": 42,
+    "skill_names": [
+      "ETL",
+      "LightGBM",
+      "MLOps",
+      "Scala",
+      "Transformers",
+      "XGBoost",
+      "data pipelines",
+      "dbt",
+      "image segmentation",
+      "object detection",
+      "scikit-learn"
+    ]
+  },
+  {
+    "resume_id": 43,
+    "skill_names": [
+      "AWS SageMaker",
+      "Azure",
+      "BERT",
+      "C++",
+      "CNN",
+      "NLTK",
+      "ONNX",
+      "OpenCV",
+      "Scala",
+      "Spark",
+      "data warehousing",
+      "word2vec"
+    ]
+  },
+  {
+    "resume_id": 44,
+    "skill_names": [
+      "Agile",
+      "Azure",
+      "C++",
+      "Hugging Face",
+      "Keras",
+      "Kubeflow",
+      "LightGBM",
+      "Pandas",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 45,
+    "skill_names": [
+      "Azure",
+      "Azure ML",
+      "Computer Vision",
+      "JavaScript",
+      "Kubernetes",
+      "NLTK",
+      "ResNet",
+      "Scala",
+      "XGBoost",
+      "YOLO",
+      "data warehousing",
+      "model deployment",
+      "probability",
+      "scikit-learn"
+    ]
+  },
+  {
+    "resume_id": 46,
+    "skill_names": [
+      "A/B testing",
+      "Google Cloud",
+      "Julia",
+      "Kubeflow",
+      "Python",
+      "Scala",
+      "Weights & Biases",
+      "data warehousing",
+      "word2vec"
+    ]
+  },
+  {
+    "resume_id": 47,
+    "skill_names": [
+      "AWS SageMaker",
+      "Azure",
+      "Azure ML",
+      "CatBoost",
+      "Linux",
+      "NLP",
+      "Transformers",
+      "data pipelines",
+      "model deployment",
+      "word2vec"
+    ]
+  },
+  {
+    "resume_id": 48,
+    "skill_names": [
+      "Airflow",
+      "Docker",
+      "ETL",
+      "GPT",
+      "Hugging Face",
+      "NLP",
+      "NLTK",
+      "Natural Language Processing",
+      "Python",
+      "XGBoost",
+      "experiment tracking",
+      "model deployment",
+      "word2vec"
+    ]
+  },
+  {
+    "resume_id": 49,
+    "skill_names": [
+      "A/B testing",
+      "Apache Spark",
+      "Computer Vision",
+      "Git",
+      "MLflow",
+      "PyTorch",
+      "cloud computing",
+      "experiment tracking",
+      "optimization",
+      "probability",
+      "statistics"
+    ]
+  },
+  {
+    "resume_id": 50,
+    "skill_names": [
+      "AWS",
+      "Agile",
+      "CatBoost",
+      "Java",
+      "Keras",
+      "Kubeflow",
+      "Kubernetes",
+      "LightGBM",
+      "Natural Language Processing",
+      "Pandas",
+      "PyTorch",
+      "R",
+      "TensorFlow",
+      "object detection",
+      "scikit-learn"
+    ]
+  }
+]

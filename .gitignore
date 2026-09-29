@@ -1,0 +1,35 @@
+# Secrets and local env (never commit)
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+
+# Backend local venv (uv may create)
+backend/.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
